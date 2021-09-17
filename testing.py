@@ -15,6 +15,8 @@ import time
 #videoCaptureObject.release()
 #cv2.destroyAllWindows()
 
+#Use webcam
+
 capture = cv2.VideoCapture(0)
 result = True
 
