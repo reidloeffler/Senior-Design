@@ -1,1125 +1,1065 @@
-Seeds, sunflower seed kernels, toasted, without salt
-236.588
-1552
-Seeds, sunflower seed kernels, oil roasted, without salt
-236.588
-1538
-Seeds, pumpkin and squash seed kernels, roasted, with salt added
-236.588
-1385
-Whey, sweet, dried
-236.588
-1351
-Cheese spread, pasteurized process, American
-236.588
-1225
-Cornmeal, white, self-rising, bolted, with wheat flour added, enriched
-236.588
-1107
-Cheese, pasteurized process, swiss
-236.588
-1067
 Beans, pink, mature seeds, raw
-236.588
-872
-Cornmeal, white, self-rising, degermed, enriched
-236.588
-860
-Cheese, swiss
-236.588
-758
-Beans, adzuki, mature seeds, raw
-236.588
-751
-Cheese, mozzarella, low moisture, part-skim
-236.588
-723
-Biscuits, plain or buttermilk, dry mix
-236.588
-702
+240.0
+3074
+Whey, sweet, dried
+240.0
+3016
 Beans, black, mature seeds, raw
-236.588
-683
-Cheese substitute, mozzarella
-236.588
-659
-Cheese, provolone
-236.588
-655
-Nuts, almonds, dry roasted, without salt added
-236.588
-650
-Cheese, parmesan, grated
-236.588
-627
-Cheese, muenster
-236.588
-618
-Cheese, cheddar (Includes foods for USDA's Food Distribution Program)
-236.588
-601
-Cheese, mexican, queso chihuahua
-236.588
-583
-Snacks, trail mix, regular, with chocolate chips, unsalted nuts and seeds
-236.588
-565
-Nuts, butternuts, dried
-236.588
-535
-Rice flour, brown
-236.588
-532
-Peanuts, all types, dry-roasted, without salt
-236.588
-530
-Cereals ready-to-eat, granola, homemade
-236.588
-526
-Candies, confectioner's coating, peanut butter
-236.588
-521
-Cheese, feta
-236.588
-506
-Soybeans, green, raw
-236.588
-497
-Cheese food, pasteurized process, American, vitamin D fortified
-236.588
-495
-Oat flour, partially debranned
-236.588
-470
-Peanuts, valencia, oil-roasted, without salt
-236.588
-459
-Barley flour or meal
-236.588
-438
-Cheese, mozzarella, whole milk
-236.588
-396
-Milk, sheep, fluid
-236.588
-387
-Pork, fresh, leg (ham), whole, separable lean only, cooked, roasted
-236.588
-379
-Corn grain, white
-236.588
-349
-Sorghum flour, whole-grain
-236.588
-336
-Nuts, hazelnuts or filberts
-236.588
-334
-Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program)
-236.588
-312
-Teff, cooked
-236.588
-302
-Mollusks, mussel, blue, raw
-236.588
-296
-Cornmeal, whole-grain, white
-236.588
-294
-Milk, dry, nonfat, regular, without added vitamin A and vitamin D
-59.147
-290
-Pork, fresh, shoulder, whole, separable lean and fat, cooked, roasted
-236.588
-286
-Soybeans, green, cooked, boiled, drained, without salt
-236.588
-284
-Beans, black turtle, mature seeds, cooked, boiled, without salt
-236.588
-281
-Milk, buttermilk, dried
-59.147
-280
-Eggnog
-236.588
-277
-Milk, reduced fat, fluid, 2% milkfat, protein fortified, with added vitamin A and vitamin D
-236.588
-276
-Milk, nonfat, fluid, protein fortified, with added vitamin A and vitamin D (fat free and skim)
-236.588
-276
-Cheese, cottage, nonfat, uncreamed, dry, large or small curd
-236.588
-276
-Chicken, gizzard, all classes, cooked, simmered
-236.588
-274
-Beans, baked, canned, with pork
-236.588
-273
-Milk, lowfat, fluid, 1% milkfat, protein fortified, with added vitamin A and vitamin D
-236.588
-273
-Turkey, all classes, back, meat and skin, cooked, roasted
-236.588
-265
-Corn flour, yellow, masa, enriched
-236.588
-263
-Chicken, broilers or fryers, dark meat, meat only, cooked, fried
-236.588
-262
-Beans, black turtle, mature seeds, canned
-236.588
-259
-Milk, chocolate, fluid, commercial, reduced fat, with added vitamin A and vitamin D
-236.588
-255
-Milk, chocolate, fluid, commercial, whole, with added vitamin A and vitamin D
-236.588
-252
-Tofu, raw, firm, prepared with calcium sulfate
-118.294
-239
-Milk, producer, fluid, 3.7% milkfat
-236.588
-227
-Cheese, ricotta, part skim milk
-118.294
-227
-Lima beans, immature seeds, cooked, boiled, drained, without salt
-236.588
-221
-Rice, white, long-grain, regular, raw, unenriched
-236.588
-213
-Garlic, raw
-236.588
-208
-Cereals ready-to-eat, QUAKER Oatmeal Squares, Golden Maple
-238.95388
-208
-Cowpeas (blackeyes), immature seeds, frozen, cooked, boiled, drained, without salt
-236.588
-207
-Lima beans, immature seeds, frozen, baby, cooked, boiled, drained, without salt
-236.588
-202
-Seeds, lotus seeds, dried
-236.588
-200
-Peas, mature seeds, sprouted, raw
-236.588
-198
-Chicken, broilers or fryers, drumstick, meat and skin, cooked, stewed
-236.588
-197
-Cheese, ricotta, whole milk
-118.294
-191
-Edamame, frozen, unprepared
-236.588
-190
-Cereals ready-to-eat, POST, Shredded Wheat, original spoon-size
-238.95388
-188
+240.0
+2877
+Beans, adzuki, mature seeds, raw
+240.0
+2470
 Apricots, dehydrated (low-moisture), sulfured, uncooked
-236.588
-187
-Cereals, ready-to-eat, MALT-O-MEAL, Blueberry Mini SPOONERS
-238.95388
-182
-Milk substitutes, fluid, with lauric acid oil
-236.588
-181
-Soup, pea, split with ham, canned, chunky, ready-to-serve
-236.588
-178
-Beverages, Meal supplement drink, canned, peanut flavor
-236.588
-174
-Pasta, dry, unenriched
-236.588
-172
-Pasta, dry, enriched
-236.588
-172
-Lima beans, immature seeds, frozen, baby, unprepared
-236.588
-171
-Mushrooms, portabella, grilled
-236.588
-163
-Passion-fruit, (granadilla), purple, raw
-236.588
-160
-Orange juice, frozen concentrate, unsweetened, undiluted
-236.588
-160
+240.0
+2202
+Orange juice, frozen concentrate, unsweetened,
+240.0
+1648
+Soybeans, green, raw
+240.0
+1587
 Peaches, dehydrated (low-moisture), sulfured, stewed
-236.588
-160
-Peas, green, raw
-236.588
-157
-Potatoes, scalloped, home-prepared with butter
-236.588
-154
-Cereals, oats, instant, fortified, with raisins and spice, prepared with water
-236.588
-154
-Cereals, WHEATENA, cooked with water
-236.588
-146
+240.0
+1341
 Currants, zante, dried
-236.588
-143
-Cereals, QUAKER, QUAKER MultiGrain Oatmeal, dry
-120.65988
-138
-Cereals ready-to-eat, NATURE'S PATH, Organic FLAX PLUS flakes
-177.677588
-138
-Cereals ready-to-eat, QUAKER, QUAKER OAT LIFE, plain
-177.677588
-135
-Wheat flour, white, all-purpose, unenriched
-236.588
-135
-Wheat flour, white, all-purpose, enriched, calcium-fortified
-236.588
-135
-Nuts, chestnuts, european, raw, unpeeled
-236.588
-135
-Corn, sweet, yellow, canned, vacuum pack, regular pack
-236.588
-134
-Wheat flour, white, bread, enriched
-236.588
-133
-Corn, sweet, yellow, frozen, kernels cut off cob, boiled, drained, without salt
-236.588
-130
-Potatoes, mashed, dehydrated, prepared from granules with milk, water and margarine added
-236.588
-130
-Infant formula, ABBOTT NUTRITION, SIMILAC, GO AND GROW, ready-to-feed, with ARA and DHA
-147.8675
-130
-Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS with vanilla bunches
-238.95388
-130
-Soybeans, mature seeds, sprouted, cooked, steamed
-236.588
-127
-Liverwurst spread
-59.147
-126
-Potatoes, mashed, dehydrated, prepared from granules without milk, whole milk and butter added
-236.588
-126
-Fish, herring, Atlantic, pickled
-236.588
-125
-Cereals ready-to-eat, QUAKER, Maple Brown Sugar LIFE Cereal
-177.677588
-124
-Puddings, chocolate, dry mix, regular, prepared with whole milk
-118.294
-124
-Soup, pea, green, canned, condensed
-118.294
-122
-Noodles, egg, unenriched, cooked, without added salt
-236.588
-122
-Soup, beef and vegetables, canned, ready-to-serve
-236.588
-120
-Lima beans, immature seeds, frozen, fordhook, unprepared
-236.588
-118
-Corn, sweet, yellow, canned, brine pack, regular pack, solids and liquids
-236.588
-118
-Orange juice, chilled, includes from concentrate, with added calcium and vitamin D
-236.588
-117
-Orange juice, chilled, includes from concentrate, with added calcium
-236.588
-117
-Burdock root, cooked, boiled, drained, without salt
-238.95388
-116
-Soup, chicken, canned, chunky, ready-to-serve
-236.588
-110
-Asparagus, canned, drained solids
-236.588
-104
-Tomato products, canned, sauce, with tomato tidbits
-236.588
-102
-Grapefruit juice, white, frozen concentrate, unsweetened, undiluted
-31.347910000000002
-101
-Tomato products, canned, puree, with salt added
-236.588
-100
+240.0
+1119
 Tomato products, canned, puree, without salt added
-236.588
-100
-Sauce, cheese, ready-to-serve
-59.147
-99
-Macaroni, vegetable, enriched, dry
-236.588
-97
-Milk, canned, condensed, sweetened
-29.5735
-97
-Tomato products, canned, sauce, with onions
-236.588
-96
-Corn, sweet, yellow, frozen, kernels cut off cob, unprepared (Includes foods for USDA's Food Distribution Program)
-236.588
-95
-Amaranth leaves, cooked, boiled, drained, without salt
-236.588
-95
-Tomato products, canned, sauce, with onions, green peppers, and celery
-236.588
-95
-Potatoes, mashed, dehydrated, flakes without milk, dry form
-236.588
-94
-Puddings, rice, ready-to-eat
-246.05152
-93
-Taro, tahitian, cooked, without salt
-236.588
-92
-Noodles, egg, dry, unenriched
-236.588
-92
-Noodles, egg, spinach, enriched, cooked
-236.588
-91
-Broccoli, frozen, chopped, cooked, boiled, drained, without salt
-236.588
-90
-Bamboo shoots, raw
-239.427056
-89
-Asparagus, frozen, cooked, boiled, drained, without salt
-236.588
-88
-CAMPBELL'S CHUNKY, Classic Chicken Noodle Soup
-236.588
-85
-Nuts, coconut meat, dried (desiccated), sweetened, flaked, packaged
-236.588
-85
-Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt
-236.588
-84
-Potatoes, mashed, dehydrated, prepared from flakes without milk, whole milk and butter added
-236.588
-82
-Nuts, almond butter, plain, with salt added
-4.92892
-81
-Squash, summer, crookneck and straightneck, frozen, cooked, boiled, drained, without salt
-236.588
-79
-Broccoli, frozen, chopped, unprepared
-236.588
-78
-Cowpeas (blackeyes), immature seeds, raw
-236.588
-77
-Spinach, canned, regular pack, solids and liquids
-236.588
-75
-Peas, edible-podded, frozen, unprepared
-236.588
-73
-Cream, fluid, light whipping
-236.588
-73
-Pears, dried, sulfured, stewed, without added sugar
-236.588
-71
-Gravy, beef, canned, ready-to-serve
-236.588
-70
-Cream, fluid, heavy whipping
-236.588
-70
-Rice, white, medium-grain, cooked, unenriched
-236.588
-69
-Dessert topping, powdered, 1.5 ounce prepared with 1/2 cups milk
-236.588
-69
-Beans, kidney, mature seeds, sprouted, raw
-236.588
-68
-Rice, white, long-grain, regular, cooked, unenriched, with salt
-236.588
-68
-Macaroni, vegetable, enriched, cooked
-236.588
-67
-Squash, summer, zucchini, includes skin, cooked, boiled, drained, without salt
-236.588
-67
-Squash, winter, acorn, cooked, boiled, mashed, without salt
-236.588
-66
-Squash, winter, acorn, cooked, boiled, mashed, with salt
-236.588
-66
-Currants, european black, raw
-236.588
-66
+240.0
+1098
+Tomato products, canned, puree, with salt added
+240.0
+1098
 Breadfruit, raw
-236.588
-66
-Squash, summer, zucchini, italian style, canned
-236.588
-66
-Milk, canned, evaporated, with added vitamin D and without added vitamin A
-29.5735
-64
-Jute, potherb, cooked, boiled, drained, without salt
-236.588
-63
+240.0
+1078
 Apricots, dried, sulfured, stewed, without added sugar
-236.588
-62
-Milk, canned, evaporated, nonfat, with added vitamin A and vitamin D
-29.5735
-62
-Corn, sweet, yellow, canned, drained solids, rinsed with tap water
-236.588
-62
-Kiwifruit, green, raw
-236.588
-61
-Brussels sprouts, raw
-236.588
-61
-Yardlong bean, cooked, boiled, drained, without salt
-236.588
-59
-Rowal, raw
-118.294
-59
-Litchis, raw
-236.588
-59
-Mountain yam, hawaii, cooked, steamed, without salt
-236.588
-58
-Groundcherries, (cape-gooseberries or poha), raw
-236.588
-56
-Cereals, CREAM OF RICE, dry
-59.383587999999996
-56
-Turnip greens, frozen, cooked, boiled, drained, without salt
-236.588
-56
-Squash, winter, butternut, cooked, baked, without salt
-236.588
-55
-Beverages, chocolate powder, no sugar added
-9.85784
-55
-Pokeberry shoots, (poke), cooked, boiled, drained, without salt
-236.588
-54
-Beets, raw
-236.588
-54
-Cream, whipped, cream topping, pressurized
-236.588
-53
-Soup, chicken with rice, canned, condensed
-118.294
-53
-Turnip greens and turnips, frozen, cooked, boiled, drained, with salt
-236.588
-52
-Peas, edible-podded, raw
-236.588
-52
-Plantains, yellow, baked
-236.588
-51
-Cereals, corn grits, white, regular and quick, enriched, cooked with water, without salt
-236.588
-51
-Cereals, corn grits, white, regular and quick, enriched, cooked with water, with salt
-236.588
-51
-Tomatoes, red, ripe, canned, stewed
-236.588
-51
-Ice creams, vanilla, light, no sugar added
-239.427056
-51
-Cereals ready-to-eat, QUAKER, QUAKER CRUNCHY BRAN
-177.677588
-50
-Drumstick pods, raw
-236.588
-50
-Cereals ready-to-eat, QUAKER, QUAKER Puffed Wheat
-238.95388
-50
-Cabbage, chinese (pak-choi), cooked, boiled, drained, without salt
-236.588
-49
-Cabbage, chinese (pak-choi), cooked, boiled, drained, with salt
-236.588
-49
-Currants, red and white, raw
-236.588
-49
-Sweet potato, canned, syrup pack, drained solids
-236.588
-49
-Asparagus, cooked, boiled, drained
-118.294
-49
-Vegetable juice cocktail, canned
-236.588
-48
-Noodles, japanese, somen, cooked
-236.588
-48
+240.0
+1028
+Tomato products, canned, sauce, with onions
+240.0
+1012
+Tomato products, canned, sauce, with onions, green peppers, and celery
+240.0
+995
+Nuts, almonds, dry roasted, without salt added
+240.0
+984
+Soybeans, green, cooked, boiled, drained, without salt
+240.0
+970
+Lima beans, immature seeds, cooked, boiled, drained,
+240.0
+969
+Snacks, trail mix, regular, with chocolate chips, unsalted nuts and seeds
+240.0
+946
+Seeds, pumpkin and squash seed kernels, roasted, with
+240.0
+930
+Potatoes, scalloped, home-prepared with butter
+240.0
+926
+Peanuts, all types, dry-roasted, without salt
+240.0
+926
+Tomato products, canned, sauce, with tomato tidbits
+240.0
+910
+Peanuts, valencia, oil-roasted, without salt
+240.0
+881
+Taro, tahitian, cooked, without salt
+240.0
+854
+Candies, confectioner's coating, peanut butter
+240.0
+848
+Amaranth leaves, cooked, boiled, drained, without salt
+240.0
+846
+Passion-fruit, (granadilla), purple, raw
+240.0
+821
+Beans, black turtle, mature seeds, cooked, boiled,
+240.0
+801
+Nuts, hazelnuts or filberts
+240.0
+782
+Beans, baked, canned, with pork
+240.0
+782
+Lima beans, immature seeds, frozen, fordhook,
+240.0
+765
+Nuts, chestnuts, european, raw, unpeeled
+240.0
+751
+Lima beans, immature seeds, frozen, baby, unprepared
+240.0
+741
+Lima beans, immature seeds, frozen, baby, cooked, boiled, drained, without salt
+240.0
+740
+Beans, black turtle, mature seeds, canned
+240.0
+739
 Squash, winter, hubbard, baked, with salt
-236.588
-47
-Onions, raw
-236.588
-46
-Asparagus, canned, regular pack, solids and liquids
-118.294
-46
-Soup, beef noodle, canned, condensed
-118.294
-46
+240.0
+734
+Mountain yam, hawaii, cooked, steamed, without salt
+240.0
+718
+Cardoon, raw
+240.0
+712
+Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt
+240.0
+690
+Plantains, yellow, baked
+240.0
+663
+Potatoes, mashed, dehydrated, flakes without milk, dry
+240.0
+659
+Seeds, sunflower seed kernels, toasted, without salt
+240.0
+658
+Pears, dried, sulfured, stewed, without added sugar
+240.0
+658
+Cereals ready-to-eat, granola, homemade
+240.0
+658
+Seeds, sunflower seed kernels, oil roasted, without salt
+240.0
+652
+Squash, winter, acorn, cooked, boiled, mashed, without
+240.0
+644
+Squash, winter, acorn, cooked, boiled, mashed, with salt
+240.0
+644
+Cowpeas (blackeyes), immature seeds, frozen, cooked, boiled, drained, without salt
+240.0
+638
+Cabbage, chinese (pak-choi), cooked, boiled, drained, with salt
+240.0
+631
+Cabbage, chinese (pak-choi), cooked, boiled, drained, without salt
+240.0
+631
+Cowpeas (blackeyes), immature seeds, raw
+240.0
+625
+Squash, summer, zucchini, italian style, canned
+240.0
+622
+Squash, winter, butternut, cooked, baked, without salt
+240.0
+582
+Edamame, frozen, unprepared
+240.0
+569
+Kiwifruit, green, raw
+240.0
+562
+Purslane, cooked, boiled, drained, without salt
+240.0
+561
+Garlic, raw
+240.0
+545
+Milk, dry, nonfat, regular, without added vitamin A and
+60.0
+538
+Spinach, canned, regular pack, solids and liquids
+240.0
+538
+Pomegranate juice, bottled
+240.0
+533
+Mushrooms, portabella, grilled
+240.0
+529
+Tomatoes, red, ripe, canned, stewed
+240.0
+528
 Tomato juice, canned, without salt added
-236.588
-46
+240.0
+527
 Tomato juice, canned, with salt added
-236.588
-46
+240.0
+527
+Cheese substitute, mozzarella
+240.0
+514
+Nuts, butternuts, dried
+240.0
+505
+Squash, winter, hubbard, cooked, boiled, mashed, with
+240.0
+505
+Squash, winter, hubbard, cooked, boiled, mashed,
+240.0
+505
+Pork, fresh, leg (ham), whole, separable lean only,
+240.0
+504
+Squash, summer, crookneck and straightneck, frozen, cooked, boiled, drained, without salt
+240.0
+486
+Mollusks, mussel, blue, raw
+240.0
+480
+Jute, potherb, cooked, boiled, drained, without salt
+240.0
+478
+Milk, buttermilk, dried
+60.0
+478
+Corn grain, white
+240.0
+476
+Squash, summer, zucchini, includes skin, cooked, boiled, drained, without salt
+240.0
+475
+Vegetable juice cocktail, canned
+240.0
+468
+Drumstick pods, raw
+240.0
+461
+Tomatoes, red, ripe, canned, packed in tomato juice
+240.0
+458
+Barley flour or meal
+240.0
+457
+Peas, mature seeds, sprouted, raw
+240.0
+457
+Rice flour, brown
+240.0
+457
+Milk, reduced fat, fluid, 2% milkfat, protein fortified, with added vitamin A and vitamin D
+240.0
+448
+Milk, nonfat, fluid, protein fortified, with added vitamin A and vitamin D (fat free and skim)
+240.0
+448
+Pork, fresh, shoulder, whole, separable lean and fat, cooked, roasted
+240.0
+444
+Orange juice, chilled, includes from concentrate, with added calcium and vitamin D
+240.0
+443                                                           
+Orange juice, chilled, includes from concentrate, with
+240.0
+443
+Milk, lowfat, fluid, 1% milkfat, protein fortified, with added vitamin A and vitamin D
+240.0
+443
+Beets, raw
+240.0
+442
+Seeds, lotus seeds, dried
+240.0
+438
+Soup, beef and vegetables, canned, ready-to-serve
+240.0
+435
+Celery, cooked, boiled, drained, without salt
+240.0
+426
+Milk, chocolate, fluid, commercial, reduced fat, with added vitamin A and vitamin D
+240.0
+422
+Grapefruit, sections, canned, juice pack, solids and
+240.0
+421
+Eggnog
+240.0
+419
+Milk, chocolate, fluid, commercial, whole, with added vitamin A and vitamin D
+240.0
+418
+Asparagus, canned, drained solids
+240.0
+416
+Carrots, raw
+240.0
+410
+Grapefruit juice, white, canned, sweetened
+240.0
+405
+Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program)
+240.0
+395
+Sorghum flour, whole-grain
+240.0
+392
+Beets, canned, regular pack, solids and liquids
+240.0
+391
+Corn, sweet, yellow, canned, vacuum pack, regular pack
+240.0
+391
+Carissa, (natal-plum), raw
+240.0
+390
+Oat flour, partially debranned
+240.0
+386
+Corn, sweet, yellow, frozen, kernels cut off cob, boiled, drained, without salt
+240.0
+384
+Sweet potato, canned, syrup pack, drained solids
+240.0
+378
+Milk, producer, fluid, 3.7% milkfat
+240.0
+368
+Turnip greens, frozen, cooked, boiled, drained, without
+240.0
+367
+Turkey, all classes, back, meat and skin, cooked, roasted
+240.0
+364
+Apricots, canned, heavy syrup pack, with skin, solids and
+240.0
+361
+Currants, european black, raw
+240.0
+361
+Chicken, broilers or fryers, dark meat, meat only,
+240.0
+354
+Peas, green, raw
+240.0
+354
+Turnip greens and turnips, frozen, cooked, boiled,
+240.0
+352
+Cornmeal, white, self-rising, bolted, with wheat flour added, enriched
+240.0
+352
+Cornmeal, whole-grain, white
+240.0
+350
+Corn, sweet, yellow, canned, brine pack, regular pack, solids and liquids
+240.0
+348
+Grapefruit, raw, white, Florida
+240.0
+345
+Potatoes, mashed, dehydrated, prepared from flakes without milk, whole milk and butter added
+240.0
+344
+Beans, kidney, mature seeds, sprouted, raw
+240.0
+344
+Brussels sprouts, raw
+240.0
+342
+Cheese spread, pasteurized process, American
+240.0
+339
+Blackberry juice, canned
+240.0
+338
+Soup, cream of chicken, canned, condensed, reduced
+120.0
+337
+Milk, sheep, fluid
+240.0
+336
+Soybeans, mature seeds, sprouted, cooked, steamed
+240.0
+334
+Oranges, raw, with peel
+240.0
+333
+Broccoli, frozen, chopped, unprepared
+240.0
+331
+Potatoes, mashed, dehydrated, prepared from granules with milk, water and margarine added
+240.0
+326
+Litchis, raw
+240.0
+325
+Cherries, sweet, canned, water pack, solids and liquids
+240.0
+325
+Tangerines, (mandarin oranges), raw
+240.0
+324
+Oranges, raw, California, valencias
+240.0
+322
+Grapefruit, sections, canned, water pack, solids and
+240.0
+322
+Squash, winter, butternut, frozen, cooked, boiled,
+240.0
+319
+Potatoes, flesh and skin, raw
+120.0
+319                                                      
+Apricots, canned, heavy syrup, drained
+240.0
+313
+Grapefruit, raw, pink and red, all areas
+240.0
+310
+Asparagus, frozen, cooked, boiled, drained, without salt
+240.0
+310
+Currants, red and white, raw
+240.0
+308
+Nuts, coconut meat, dried (desiccated), sweetened, flaked, packaged
+240.0
+307
+Cherries, sweet, raw
+240.0
+306
+Soup, pea, split with ham, canned, chunky, ready-to-
+240.0
+305
+Pokeberry shoots, (poke), cooked, boiled, drained,
+240.0
+304
+Cress, garden, raw
+240.0
+303
+Potatoes, mashed, dehydrated, prepared from granules without milk, whole milk and butter added
+240.0
+302
+Cheese, pasteurized process, swiss
+240.0
+302
+Yardlong bean, cooked, boiled, drained, without salt
+240.0
+302
+Corn flour, yellow, masa, enriched
+240.0
+299
+Tofu, raw, firm, prepared with calcium sulfate
+120.0
+299
+Gooseberries, raw
+240.0
+297
+Turnip greens, cooked, boiled, drained, without salt
+240.0
+292
+Corn, sweet, yellow, frozen, kernels cut off cob, unprepared (Includes foods for USDA's Food Distribution
+240.0
+290
+Beet greens, raw
+240.0
+290                                   
+Cheese food, pasteurized process, American, vitamin D
+240.0
+288
+Mountain yam, hawaii, raw
+120.0
+284
+Turnips, frozen, cooked, boiled, drained, without salt
+240.0
+284
+Lime juice, raw
+240.0
+283
+Water convolvulus, cooked, boiled, drained, with salt
+240.0
+278
+Milk substitutes, fluid, with lauric acid oil
+240.0
+278
+Mangos, raw
+240.0
+277
+Peas, edible-podded, frozen, unprepared
+240.0
+276
+Mushrooms, Chanterelle, raw
+240.0
+273
+Cheese, ricotta, whole milk
+120.0
+272
+Radishes, raw
+240.0
+270
+Teff, cooked
+240.0
+270
+Grapes, canned, thompson seedless, water pack, solids
+240.0
+262
+Carrots, canned, regular pack, drained solids
+240.0
+261
+Broccoli, frozen, chopped, cooked, boiled, drained,
+240.0
+261
+Chicken, gizzard, all classes, cooked, simmered
+240.0
+260
+Chicken, broilers or fryers, drumstick, meat and skin, cooked, stewed
+240.0
+258
+Potatoes, boiled, cooked without skin, flesh, with salt
+120.0
+256
+Potatoes, boiled, cooked without skin, flesh, without salt
+120.0
+256
+Figs, canned, water pack, solids and liquids
+240.0
+255
+Beverages, Meal supplement drink, canned, peanut
+240.0
+253
+Lemon juice, raw
+240.0
+251
+Cheese, mozzarella, low moisture, part-skim
+240.0
+248
+Peaches, canned, light syrup pack, solids and liquids
+240.0
+243                                                        
+Peaches, canned, water pack, solids and liquids
+240.0
+242
+Macaroni, vegetable, enriched, dry
+240.0
+239
+Cherries, sour, red, canned, light syrup pack, solids and
+240.0
+239
+Cornmeal, white, self-rising, degermed, enriched
+240.0
+235
+Onions, raw
+240.0
+234
+Boysenberries, canned, heavy syrup
+240.0
+230
+Hyacinth-beans, immature seeds, cooked, boiled, drained, without salt
+240.0
+228
+Kale, frozen, unprepared
+240.0
+223
+CAMPBELL'S CHUNKY, Classic Chicken Noodle Soup
+240.0
+219
+Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, heavy syrup, solids and liquids
+240.0
+218
+Peaches, canned, extra heavy syrup pack, solids and liquids
+240.0
+217
+Beans, snap, green, frozen, cooked, boiled, drained
+240.0
+215
+Loganberries, frozen
+240.0
+213
+Puddings, chocolate, dry mix, regular, prepared with
+120.0
+213
+Rice, white, long-grain, regular, raw, unenriched
+240.0
+213
+Purslane, raw
+240.0
+212
+Onions, frozen, whole, cooked, boiled, drained, without
+240.0
+212
+Blackberries, frozen, unsweetened
+240.0
+211
+Asparagus, canned, regular pack, solids and liquids
+120.0
+210
+Cereals, oats, instant, fortified, with raisins and spice, prepared with water
+240.0
+204
+Pasta, dry, enriched
+240.0
+203
+Pasta, dry, unenriched
+240.0
+203
+Asparagus, cooked, boiled, drained
+120.0
+202
+Cheese, cottage, nonfat, uncreamed, dry, large or small curd
+240.0
+199
+Peas, edible-podded, raw
+240.0
+196
+Biscuits, plain or buttermilk, dry mix
+240.0
+196
+Carrots, canned, no salt added, solids and liquids
+120.0
+194
+Cherries, sour, red, frozen, unsweetened (Includes foods for USDA's Food Distribution Program)
+240.0
+192
+Cauliflower, green, raw
+240.0
+192
+Fruit salad, (peach and pear and apricot and pineapple and cherry), canned, water pack, solids and liquids
+240.0
+191
+Gravy, beef, canned, ready-to-serve
+240.0
+189
+Beverages, chocolate powder, no sugar added
+29.5736
+188
+Cereals, WHEATENA, cooked with water
+240.0
+187
+Soup, pea, green, canned, condensed
+120.0
+186
+Applesauce, canned, sweetened, without salt
+240.0
+184
+Turnip greens, frozen, cooked, boiled, drained, with salt
+120.0
+184
+Boysenberries, frozen, unsweetened
+240.0
+183
+Cheese, provolone
+240.0
+182
+Cabbage, chinese (pe-tsai), raw
+240.0
+181
+Cheese, parmesan, grated
+240.0
+180
 Beverages, almond milk, chocolate, ready-to-drink
 236.588
-46
-Blackberries, frozen, unsweetened
-236.588
-45
-Carrots, raw
-236.588
-45
-Blueberries, wild, canned, heavy syrup, drained
-236.588
-45
-Grapes, canned, thompson seedless, water pack, solids and liquids
-236.588
-44
-Cereals ready-to-eat, POST HONEY BUNCHES OF OATS with cinnamon bunches
-177.677588
-44
-Cereals, MALT-O-MEAL, chocolate, dry
-14.836049199999998
-43
-Cereals, CREAM OF WHEAT, instant, prepared with water, without salt
-236.588
-43
-Potatoes, flesh and skin, raw
-118.294
-43
-Hyacinth-beans, immature seeds, cooked, boiled, drained, without salt
-236.588
-43
-Purslane, cooked, boiled, drained, without salt
-236.588
-43
-Cereals ready-to-eat, POST, Honeycomb Cereal
-238.95388
-42
-Turnip greens, cooked, boiled, drained, without salt
-236.588
-42
+180
+Cheese, muenster
+240.0
+177
+Grapes, american type (slip skin), raw
+240.0
+176                                                    
+Carambola, (starfruit), raw
+240.0
+176
+Corn, sweet, yellow, canned, drained solids, rinsed with tap water
+240.0
+174
+Soup, chicken, canned, chunky, ready-to-serve
+240.0
+172
+Okra, frozen, cooked, boiled, drained, without salt
+120.0
+169
 Beverages, Orange drink, breakfast type, with juice and pulp, frozen concentrate
 29.5735
-42
-Cereals, CREAM OF RICE, cooked with water, with salt
+169
+Spinach, raw
+240.0
+167
+Pears, canned, light syrup pack, solids and liquids
+240.0
+166
+Cowpeas, leafy tips, raw
+240.0
+164
+Pears, raw
+240.0
+162
+Cheese, ricotta, part skim milk
+120.0
+155
+Turnip greens, frozen, unprepared
+120.0
+151
+Carrots, frozen, unprepared (Includes foods for USDA's Food Distribution Program)
+120.0
+150
+Infant formula, ABBOTT NUTRITION, SIMILAC, GO AND GROW, ready-to-feed, with ARA and DHA
+147.8675
+150
+Rowal, raw
+120.0
+149
+Blueberries, wild, canned, heavy syrup, drained
+240.0
+147
+Milk, canned, condensed, sweetened
+29.5735
+142
+Blueberries, frozen, sweetened
+240.0
+138
+Wheat flour, white, bread, enriched
+240.0
+137
+Wheat flour, white, all-purpose, unenriched
+240.0
+134
+Wheat flour, white, all-purpose, enriched, calcium-
+240.0
+134
+Apples, frozen, unsweetened, unheated (Includes foods for USDA's Food Distribution Program)
+240.0
+133
+Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, extra light syrup, solids and liquids
+120.0
+128
+Mung beans, mature seeds, sprouted, cooked, boiled, drained, without salt
+240.0
+125
+Soup, cream of celery, canned, prepared with equal
+240.0
+124
+Dessert topping, powdered, 1.5 ounce prepared with
+240.0
+121
+Beverages, almond milk, sweetened, vanilla flavor, ready-
 236.588
-41
-Grapefruit, raw, pink and red, all areas
-236.588
-41
-Water convolvulus, cooked, boiled, drained, with salt
-236.588
-41
-Cardoon, raw
-236.588
-41
-Tomatoes, red, ripe, canned, packed in tomato juice
-236.588
-41
-Beverages, Energy drink, AMP, sugar free
-236.588
-41
-Turnips, frozen, cooked, boiled, drained, without salt
-236.588
-41
-Gooseberries, raw
-236.588
-40
-Cauliflower, green, raw
-236.588
-40
-Beans, snap, green, frozen, cooked, boiled, drained without salt
-236.588
-39
-Tangerines, (mandarin oranges), raw
-236.588
-39
-Loganberries, frozen
-236.588
-38
-Cress, garden, raw
-236.588
-38
-Celery, cooked, boiled, drained, without salt
-236.588
-38
-Oranges, raw, with peel
-236.588
-37
-Cherries, sweet, canned, water pack, solids and liquids
-236.588
-37
-Soup, cream of celery, canned, prepared with equal volume water
-236.588
-37
-Beets, canned, regular pack, solids and liquids
-236.588
-37
+120
+Nuts, almond butter, plain, with salt added
+14.7868
+120
+Cream, fluid, light whipping
+240.0
+116
+Cream, fluid, heavy whipping
+240.0
+114
+Milk, canned, evaporated, nonfat, with added vitamin A and vitamin D
+29.5735
+106
+Cheese, cheddar (Includes foods for USDA's Food Distribution Program)
+240.0
+100
+Apples, raw, without skin
+240.0
+99
+Soup, beef noodle, canned, condensed
+120.0
+99                                              
+Fish, herring, Atlantic, pickled
+240.0
+97
+Milk, canned, evaporated, with added vitamin D and without added vitamin A
+29.5735
+95
+Cheese, swiss
+240.0
+95
+Liverwurst spread
+60.0
+94
+Cheese, feta
+240.0
+93
+Noodles, egg, dry, unenriched
+240.0
+93
+Cream, whipped, cream topping, pressurized
+240.0
+88
+Cheese, mozzarella, whole milk
+240.0
+85
+Onions, dehydrated flakes
+14.7868
+81
+Soup, cream of mushroom, canned, condensed
+120.0
+81
+Endive, raw
+120.0
+78
+Broccoli raab, raw
+240.0
+78
+Cranberry sauce, canned, sweetened
+240.0
+78
+Kale, raw
+240.0
+73                                  
+Cereals, corn grits, white, regular and quick, enriched, cooked with water, with salt
+240.0
+69
+Cereals, corn grits, white, regular and quick, enriched, cooked with water, without salt
+240.0
+69
+Syrups, table blends, pancake, with 2% maple, with added potassium
+240.0
+69
+Cheese, mexican, queso chihuahua
+240.0
+69
+Tamarind nectar, canned
+240.0
+68
 Milk shakes, thick chocolate
 29.5735
-36
-Boysenberries, frozen, unsweetened
-236.588
-36
-Rice noodles, cooked
-236.588
-35
-Soup, tomato, canned, condensed, reduced sodium
-239.427056
-35
-Carrots, canned, regular pack, drained solids
-236.588
-35
-Mung beans, mature seeds, sprouted, cooked, boiled, drained, without salt
-236.588
-35
-Okra, frozen, cooked, boiled, drained, without salt
-118.294
-34
-Cereals ready-to-eat, BARBARA'S PUFFINS, original
-177.677588
-34
-Lime juice, raw
-236.588
-34
-Squash, winter, butternut, frozen, cooked, boiled, without salt
-236.588
-34
-Squash, winter, hubbard, cooked, boiled, mashed, with salt
-236.588
-33
-Squash, winter, hubbard, cooked, boiled, mashed, without salt
-236.588
-33
-Cereals, corn grits, yellow, regular and quick, enriched, cooked with water, without salt
-236.588
-33
-Soup, cream of shrimp, canned, prepared with equal volume water
-236.588
-32
-Syrups, table blends, pancake, with 2% maple, with added potassium
-236.588
-32
-Potatoes, boiled, cooked without skin, flesh, with salt
-118.294
-31
-Potatoes, boiled, cooked without skin, flesh, without salt
-118.294
-31
-Apricots, canned, heavy syrup pack, with skin, solids and liquids
-236.588
-31
-Mushrooms, Chanterelle, raw
-236.588
-31
-Oranges, raw, California, valencias
-236.588
-31
-Soup, cream of mushroom, canned, condensed
-118.294
-30
-Blackberry juice, canned
-236.588
-30
-Grapefruit, sections, canned, juice pack, solids and liquids
-236.588
-30
-Broccoli raab, raw
-236.588
-29
-Cherries, sweet, raw
-236.588
-29
-Balsam-pear (bitter gourd), pods, raw
-239.427056
-29
-Peaches, canned, extra heavy syrup pack, solids and liquids
-236.588
-29
-Cream, fluid, half and half
-29.5735
-29
-Soup, cream of chicken, canned, condensed, reduced sodium
-118.294
-29
-Apricots, canned, heavy syrup, drained
-236.588
-28
-Syrups, table blends, pancake
-236.588
-28
-Turnip greens, frozen, cooked, boiled, drained, with salt
-118.294
-28
-Peaches, canned, light syrup pack, solids and liquids
-236.588
-28
-Cream, fluid, light (coffee cream or table cream)
-29.5735
-28
-Cereals ready-to-eat, POST, COCOA PEBBLES
-177.677588
-28
-Grapefruit juice, white, canned, sweetened
-236.588
-28
-Pomegranate juice, bottled
-236.588
-27
-Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, heavy syrup, solids and liquids
-236.588
-27
-Boysenberries, canned, heavy syrup
-236.588
-26
-Cherries, sour, red, canned, light syrup pack, solids and liquids
-236.588
-25
-Egg, whole, cooked, omelet
-4.92892
-25
-Cherries, sour, red, frozen, unsweetened (Includes foods for USDA's Food Distribution Program)
-236.588
-25
-Figs, canned, water pack, solids and liquids
-236.588
-25
-Carrots, canned, no salt added, solids and liquids
-118.294
-25
-Grapefruit, sections, canned, water pack, solids and liquids
-236.588
-24
-Peaches, canned, water pack, solids and liquids
-236.588
-24
-Radishes, raw
-236.588
-23
-Mountain yam, hawaii, raw
-118.294
-23
-Mangos, raw
-236.588
-23
-Turnip greens, frozen, unprepared
-118.294
-22
-Fruit salad, (peach and pear and apricot and pineapple and cherry), canned, water pack, solids and liquids
-236.588
-22
-Cabbage, chinese (pe-tsai), raw
-236.588
-22
-Infant formula, MEAD JOHNSON, ENFAMIL, Premature, with iron, 24 calories, ready-to-feed
-29.5735
-21
-Infant formula, GERBER, GOOD START 2 Soy, with iron, ready-to-feed
-29.5735
-21
-Infant Formula, GERBER GOOD START 2, GENTLE PLUS, ready-to-feed
-29.5735
-21
-Carrots, frozen, unprepared (Includes foods for USDA's Food Distribution Program)
-118.294
-21
-Lemon juice, raw
-236.588
-20
-Kale, frozen, unprepared
-236.588
-19
-Beverages, almond milk, sweetened, vanilla flavor, ready-to-drink
-236.588
-19
-Purslane, raw
-236.588
-19
-Nuts, coconut cream, raw (liquid expressed from grated meat)
-4.92892
-18
-Pears, canned, light syrup pack, solids and liquids
-236.588
-18
-Pears, raw
-236.588
-17
-Spices, mustard seed, ground
-4.92892
-17
-Blueberries, frozen, sweetened
-236.588
-16
-Grapefruit, raw, white, Florida
-236.588
-16
-Carambola, (starfruit), raw
-236.588
-16
-Beet greens, raw
-236.588
-16
-Cheese, cream
-4.92892
-16
-Onions, dehydrated flakes
-4.92892
-15
-Infant formula, ABBOTT NUTRITION, SIMILAC, Expert Care, Diarrhea, ready- to- feed with ARA and DHA
-29.5735
-15
-Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, extra light syrup, solids and liquids
-118.294
-15
-Applesauce, canned, sweetened, without salt
-236.588
-15
-Spinach, raw
-236.588
-15
-Papayas, raw
-238.95388
-14
-Cream, sour, reduced fat, cultured
-4.92892
-14
-Apples, frozen, unsweetened, unheated (Includes foods for USDA's Food Distribution Program)
-236.588
-14
-Cereals ready-to-eat, rice, puffed, fortified
-236.588
-14
-Dessert topping, pressurized
-236.588
-13
-Apples, raw, without skin
-236.588
-12
-Spices, caraway seed
-4.92892
-12
-Cereals, CREAM OF WHEAT, instant, dry
-4.92892
-12
-Alcoholic beverage, pina colada, canned
-29.5735
-12
-Kale, raw
-236.588
-12
-Infant formula, ABBOTT NUTRITION, SIMILAC, For Spit Up, ready-to-feed, with ARA and DHA
-29.5735
-11
-Cranberry sauce, canned, sweetened
-236.588
-11
-Carissa, (natal-plum), raw
-236.588
-10
-Sour dressing, non-butterfat, cultured, filled cream-type
-4.92892
-10
-Spices, anise seed
-4.92892
-9
-Grapes, american type (slip skin), raw
-236.588
-9
-Cream, sour, cultured
-4.92892
-9
-Spices, turmeric, ground
-4.92892
-9
-Infant formula, GERBER, GOOD START 2, PROTECT PLUS, ready-to-feed
-29.5735
-8
-Gourd, white-flowered (calabash), raw
-120.65988
-8
-Beverages, Propel Zero, fruit-flavored, non-carbonated
-29.5735
-7
-Spices, curry powder
-4.92892
-7
-Endive, raw
-118.294
-7
-Chicken, broilers or fryers, separable fat, raw
-4.92892
-7
-Alcoholic beverage, wine, table, white
-29.5735
-5
-Alcoholic beverage, wine, table, white, Chardonnay
-29.5735
-5
+64
 Beverages, coffee, instant, decaffeinated, powder
 4.92892
-5
-Tamarind nectar, canned
-236.588
-5
+63
+Spices, turmeric, ground
+4.92892
+62
+Noodles, egg, unenriched, cooked, without added salt
+240.0
+61
+Noodles, egg, spinach, enriched, cooked
+240.0
+59
+Soup, cream of shrimp, canned, prepared with equal
+240.0
+59
+Rice, white, long-grain, regular, cooked, unenriched,
+240.0
+55
+Rice, white, medium-grain, cooked, unenriched
+240.0
+54
+Cereals, corn grits, yellow, regular and quick, enriched, cooked with water, without salt
+240.0
+51
+Noodles, japanese, somen, cooked
+240.0
+51
+Cereals, CREAM OF RICE, cooked with water, with salt
+240.0
+49
+Nuts, coconut cream, raw (liquid expressed from grated
+14.7868
+49
+Cereals, CREAM OF WHEAT, instant, prepared with water, without salt
+240.0
+48
+Syrups, table blends, pancake
+240.0
+47
+Soup, chicken with rice, canned, condensed
+120.0
+43
+Macaroni, vegetable, enriched, cooked
+240.0
+42
+Cream, fluid, light (coffee cream or table cream)
+29.5735
+41
+Cream, fluid, half and half
+29.5735
+40
+Spices, anise seed
+4.92892
+30
+Spices, caraway seed
+4.92892
+28
+Alcoholic beverage, pina colada, canned
+29.5735
+27
+Spices, ginger, ground
+4.92892
+24
+Spices, curry powder
+4.92892
+23
+Infant formula, MEAD JOHNSON, ENFAMIL, Premature, with iron, 24 calories, ready-to-feed
+29.5735
+23
+Infant formula, GERBER, GOOD START 2 Soy, with iron,
+29.5735
+23
+Infant formula, GERBER, GOOD START 2, PROTECT PLUS, ready-to-feed
+29.5735
+22
+Infant formula, ABBOTT NUTRITION, SIMILAC, Expert Care, Diarrhea, ready- to- feed with ARA and DHA
+29.5735
+22
+Infant Formula, GERBER GOOD START 2, GENTLE PLUS,
+29.5735
+22
+Infant formula, ABBOTT NUTRITION, SIMILAC, For Spit Up, ready-to-feed, with ARA and DHA
+29.5735
+21
+Alcoholic beverage, wine, table, white
+29.5735
+21
+Alcoholic beverage, wine, table, white, Chardonnay
+29.5735
+21
+Sour dressing, non-butterfat, cultured, filled cream-type
+14.7868
+19
+Cream, sour, reduced fat, cultured
+14.7868
+19
+Nuts, coconut cream, canned, sweetened
+14.7868
+19
+Cheese, cream
+14.7868
+19
+Sauce, cheese, ready-to-serve
+60.0
+19
+Beverages, cranberry-apricot juice drink, bottled
+29.5735
+19                                                    
+Spices, tarragon, dried
+4.92892
+18
+Egg, whole, cooked, omelet
+14.7868
+18
+Sweeteners, for baking, brown, contains sugar and
+14.7868
+17
+Onions, frozen, chopped, cooked, boiled, drained,
+14.7868
+16
+Cereals ready-to-eat, rice, puffed, fortified
+240.0
+16
+Cream, sour, cultured
+14.7868
+15
+Spices, mustard seed, ground
+4.92892
+15
+Spices, savory, ground
+4.92892
+15
+Dessert topping, pressurized
+240.0
+13
+Cereals, CREAM OF WHEAT, instant, dry
+14.7868
+13
+Orange peel, raw
+14.7868
+13
+Beverages, coffee substitute, cereal grain beverage, prepared with water
+29.5735
+12
+Spices, cinnamon, ground
+4.92892
+11
+Alcoholic beverage, liqueur, coffee, 63 proof
+29.5735
+10
+Spices, marjoram, dried
+4.92892
+9
+Beverages, Whiskey sour mix, bottled
+29.5735
+9
+Ginger root, raw
+4.92892
+8
+Chicken, broilers or fryers, separable fat, raw
+14.7868
+8
+Spices, thyme, dried
+4.92892
+8
+Salad dressing, KRAFT Mayo Fat Free Mayonnaise
+14.7868
+8
+Spices, mace, ground
+4.92892
+8
 Spices, nutmeg, ground
 4.92892
-5
-Salad dressing, KRAFT Mayo Fat Free Mayonnaise Dressing
-4.92892
-4
-Onions, frozen, whole, cooked, boiled, drained, without salt
-236.588
-4
-Nuts, coconut cream, canned, sweetened
-4.92892
-4
-Beverages, carbonated, reduced sugar, cola, contains caffeine and sweeteners
-29.5735
-3
+8
 Alcoholic beverage, beer, light, BUD LIGHT
 29.5735
-3
-Cowpeas, leafy tips, raw
+8
+Beverages, cranberry-grape juice drink, bottled
+29.5735
+7
+Beverages, Energy drink, ROCKSTAR, sugar free
 236.588
+7
+Rice noodles, cooked
+240.0
+7
+Vanilla extract
+4.92892
+6
+Salad dressing, mayonnaise type, regular, with salt
+14.7868
+5
+Beverages, Energy drink, AMP, sugar free
+236.588
+5
+Beverages, Propel Zero, fruit-flavored, non-carbonated
+29.5735
+5
+Tree fern, cooked, without salt
+120.0
+4
+Alcoholic beverage, whiskey sour, canned
+29.5735
+3
+Alcoholic beverage, daiquiri, canned
+29.5735
+3
+Spices, bay leaf
+4.92892
 3
 Alcoholic beverage, tequila sunrise, canned
 29.5735
 3
-Spices, ginger, ground
-4.92892
-3
-Beverages, coffee substitute, cereal grain beverage, prepared with water
-29.5735
+Margarine-like, margarine-butter blend, soybean oil and
+14.7868
 3
 Salad dressing, mayonnaise, regular
-4.92892
-3
-Onions, frozen, chopped, cooked, boiled, drained, without salt
-4.92892
-3
-Tree fern, cooked, without salt
-118.294
+14.7868
 3
 Beverages, carbonated, low calorie, cola or pepper-type, with aspartame, contains caffeine
 29.5735
-3
-Alcoholic beverage, liqueur, coffee, 63 proof
+2
+Whiskey sour mix, bottled, with added potassium and
 29.5735
 2
-Spices, thyme, dried
-4.92892
+Salad dressing, mayonnaise, imitation, soybean
+14.7868
 2
-Spices, savory, ground
-4.92892
-2
-Beverages, Whiskey sour mix, bottled
-29.5735
-2
-Whiskey sour mix, bottled, with added potassium and sodium
-29.5735
-2
-Salad dressing, mayonnaise type, regular, with salt
-4.92892
-2
-Spices, tarragon, dried
-4.92892
-2
-Spices, mace, ground
-4.92892
-2
-Alcoholic beverage, whiskey sour, canned
-29.5735
-2
-Spices, marjoram, dried
-4.92892
-2
-Beverages, tea, instant, unsweetened, powder
-4.9782092
-2
-Spices, cinnamon, ground
-4.92892
-2
-Beverages, cranberry-apricot juice drink, bottled
-29.5735
-2
-Margarine-like, margarine-butter blend, soybean oil and butter
-4.92892
-1
-Orange peel, raw
-4.92892
-1
-Beverages, cranberry-grape juice drink, bottled
+Beverages, carbonated, reduced sugar, cola, contains caffeine and sweeteners
 29.5735
 1
-Ginger root, raw
-4.92892
+Olives, ripe, canned (small-extra large)
+14.7868
 1
-Spices, bay leaf
-4.92892
+Beverages, carbonated, club soda
+29.5735
 1
-Alcoholic beverage, daiquiri, canned
+Beverages, carbonated, low calorie, other than cola or pepper, with aspartame, contains caffeine
 29.5735
 1

@@ -9,11 +9,11 @@ def calculate_total_lines(file):
 
     total_lines = 0
 
-    for char_num in range(len(file) - 1):
+    for char_num in range(len(file)):
         if file[char_num] == '\n':
             total_lines += 1
 
-    total_lines = int(total_lines / 2) + 1
+    total_lines = int(total_lines / 2)
 
     return total_lines
 

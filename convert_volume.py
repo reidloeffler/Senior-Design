@@ -7,8 +7,8 @@ def calculate_total_lines(file):
 
     total_lines = 0
 
-    for char_num in range(len(file) - 1):
-        if file[char_num] == '\t':
+    for char_num in range(len(file)):
+        if file[char_num] == '\n':
             total_lines += 1
 
     total_lines = int(total_lines / 3)
@@ -31,7 +31,7 @@ def sort_values(file, total_lines, line_track):
 
     while total_num_line < total_lines:
 
-        if file[char_num] != '\n' and file[char_num] != '\t':
+        if file[char_num] != '\n':
 
             if num_line == 0:
                 description += file[char_num]
@@ -48,15 +48,9 @@ def sort_values(file, total_lines, line_track):
             num_line += 1
             char_num += 1
 
-        if file[char_num] == '\t':
-            char_num += 1
-
         if num_line == 3:
             total_num_line += 1
             num_line = 0
-            # info['description'] = description
-            # info['volume'] = volume
-            # info['mass'] = mass
 
             if line_track == total_num_line:
                 info['description'] = description
@@ -90,28 +84,20 @@ def covert_units(volume_string):
             volume += volume_string[x]
         x += 1
 
-    if (units[0] in volume_string and units[1] not in volume_string
-            and units[2] not in volume_string
-            and units[3] not in volume_string):
-        volume = float(volume) * 236.588
+    if (units[0] in volume_string and volume in volume_string):
+        volume = float(volume) * 240
         return volume
 
-    if (units[1] in volume_string and units[0] not in volume_string
-            and units[2] not in volume_string
-            and units[3] not in volume_string):
+    if (units[1] in volume_string and volume in volume_string):
         volume = float(volume) * 29.5735
         return volume
 
-    if (units[2] in volume_string and units[0] not in volume_string
-            and units[1] not in volume_string
-            and units[3] not in volume_string):
+    if (units[2] in volume_string and volume in volume_string):
         volume = float(volume) * 4.92892
         return volume
 
-    if (units[3] in volume_string and units[0] not in volume_string
-            and units[1] not in volume_string
-            and units[2] not in volume_string):
-        volume = float(volume) * 4.92892
+    if (units[3] in volume_string and volume in volume_string):
+        volume = float(volume) * 14.7868
         return volume
 
 
