@@ -50,7 +50,7 @@ def get_values(file, total_lines, usr_description):
             total_num_line += 1
             num_line = 0
 
-            if usr_description == (description + '\n'):
+            if usr_description == description.lower():
                 info['description'] = description
                 info['concentration'] = concentration
                 total_num_line = total_lines
@@ -74,7 +74,10 @@ def main():
     total_lines = calculate_total_lines(look_up_table)
 
     print('Please enter and item description to search for:')
+
     usr_description = sys.stdin.readline()
+    usr_description = usr_description.strip().lower()
+
     info = get_values(look_up_table, total_lines, usr_description)
 
     if info == 'entry does not exist':
