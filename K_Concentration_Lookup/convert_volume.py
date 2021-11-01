@@ -118,17 +118,17 @@ def main():
 
         description = info[1]
         volume = str(covert_units(info[2]))
-        mass = info[3]
+        mass = int(info[3]) * 1000
 
         if volume != 'None':
             concentration = float(mass) / float(volume)
 
             converted_volumes.write(description + '\n')
-            converted_volumes.write(volume + '\n')
-            converted_volumes.write(mass + '\n')
+            converted_volumes.write(str(round(float(volume), 2)) + ' mL\n')
+            converted_volumes.write(str(mass) + ' mg\n')
 
             look_up_table.write(description + '\n')
-            look_up_table.write((str(concentration)) + '\n')
+            look_up_table.write((str(round(concentration, 1))) + ' mg/mL\n')
 
         line_track += 1
 
