@@ -3,7 +3,19 @@ from tkinter.ttk import *           # modern look
 
 from PIL import Image, ImageTk      # Python Image Library
 
+from datetime import datetime       # current day & date
+
 from CircularProgressbar import *
+
+#----------------------------------------------------------------------
+# callback function to update date and time every 100 ms
+
+def update_datetime():
+    timeLabel.configure(text=f"{datetime.now():%X}")
+    dateLabel.configure(text=f"{datetime.now():%a, %b %d %Y}")
+    window.after(100, update_datetime)
+
+#----------------------------------------------------------------------
 
 """
     This will create a top-level window (root) having a frame with a title bar,
@@ -12,8 +24,8 @@ from CircularProgressbar import *
 """
 window=Tk()                         # setup the application object
                 
-window.title("K-Dx")                 # title of the window
-
+window.title("K-Dx")                # title of the window
+    
 """
     geometry("widthxheight+Xpos+Ypos")
     Xpos and YPos are the coordinates of the top left corner of the window
@@ -73,11 +85,13 @@ backBorder.grid(row=0, column=0, sticky=(N, W, E, S))
 
 frameWidth = screenWidth  - (2 * borWidth)
 
+# ----------------------------------Top bar------------------------------------- #
+
 topFrame = Frame(backBorder, padding=borWidth/5, style='TopBG.TFrame')
 topFrame['width']  = frameWidth
 topFrame['height'] = 2 * borWidth
 topFrame.grid(row=0, column=0)
-topFrame.grid_propagate(False)
+topFrame.grid_propagate(False)              # disables fit to contents
 
 logoSize = int(topFrame['height'] - 2*(borWidth/5))
 
@@ -86,7 +100,20 @@ logoImg = logoImg.resize((logoSize, logoSize), Image.ANTIALIAS)
 logoImg = ImageTk.PhotoImage(logoImg)
 
 logoLabel = Label(topFrame, image = logoImg, background='#E0C0C0')
-logoLabel.grid(row=0, column=0)
+logoLabel.grid(row=0, column=0, sticky=(N, W, S))
+
+timeLabel = Label(topFrame, foreground='black', background='#E0C0C0', font=(None, 16, 'bold'))
+timeLabel.grid(row=0, column=1, sticky=(N, S))
+
+dateLabel = Label(topFrame, foreground='black', background='#E0C0C0', font=(None, 16, 'bold'))
+dateLabel.grid(row=0, column=2, sticky=(N, E, S))
+
+update_datetime()
+
+# center column expands to consume all extra space
+topFrame.grid_columnconfigure(0, weight=1, uniform='top')
+topFrame.grid_columnconfigure(1, weight=1, uniform='top')
+topFrame.grid_columnconfigure(2, weight=1, uniform='top')
 
 mainFrame = Frame(backBorder, style='PinkBG.TFrame')
 mainFrame['width']  = frameWidth
