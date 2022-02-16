@@ -16,6 +16,29 @@ def update_datetime():
     window.after(100, update_datetime)
 
 #----------------------------------------------------------------------
+    
+#----------------------------------------------------------------------
+# callback functions to perform frame switch
+
+def probe():        # hide the home frame and show the probe frame
+    homeFrame.grid_remove()
+    probeFrame.grid()
+
+def camera():       # hide the home frame and show the camera frame
+    homeFrame.grid_remove()
+    cameraFrame.grid()
+
+def logs():         # hide the home frame and show the logs frame
+    homeFrame.grid_remove()
+    logsFrame.grid()
+
+def home():         # hide all the frames except the home frame
+    probeFrame.grid_remove()
+    cameraFrame.grid_remove()
+    logsFrame.grid_remove()
+    homeFrame.grid()
+
+#----------------------------------------------------------------------
 
 """
     This will create a top-level window (root) having a frame with a title bar,
@@ -121,9 +144,12 @@ mainFrame['height'] = screenHeight - (4 * borWidth)
 mainFrame.grid(row=1, column=0)
 mainFrame.grid_propagate(False)
 
+homeFrame = Frame(mainFrame, style='PinkBG.TFrame')
+homeFrame.grid(row=0, column=0)
+
 # ---------------------------------Left Side------------------------------------ #
 
-leftFrame = Frame(mainFrame, padding=borWidth/5, style='PinkBG.TFrame')
+leftFrame = Frame(homeFrame, padding=borWidth/5, style='PinkBG.TFrame')
 leftFrame['width']  = frameWidth * 0.5
 leftFrame['height'] = mainFrame['height']
 leftFrame.grid(row=0, column=0)
@@ -160,7 +186,7 @@ leftFrame.grid_rowconfigure(4, weight=1)
 probeImg = PhotoImage(file = "images/probe2.png")
 
 # TODO: add image and format font
-probeButton = Button(buttonFrame, text='Use Probe', style='Light.TButton')
+probeButton = Button(buttonFrame, text='Use Probe', style='Light.TButton', command=probe)
 probeButton['image'] = probeImg
 probeButton['compound'] = TOP
 probeButton.grid(row=0, column=0)
@@ -168,7 +194,7 @@ probeButton.grid(row=0, column=0)
 cameraImg = PhotoImage(file = "images/camera2.png")
 
 # TODO: add image and format font
-cameraButton = Button(buttonFrame, text='Use Camera', style='Light.TButton')
+cameraButton = Button(buttonFrame, text='Use Camera', style='Light.TButton', command=camera)
 cameraButton['image'] = cameraImg
 cameraButton['compound'] = TOP
 cameraButton.grid(row=0, column=1)
@@ -176,14 +202,14 @@ cameraButton.grid(row=0, column=1)
 logsImg = PhotoImage(file = "images/logs2.png")
 
 # TODO: add image and format font
-logsButton = Button(buttonFrame, text='Access Logs', style='Light.TButton')
+logsButton = Button(buttonFrame, text='Access Logs', style='Light.TButton', command=logs)
 logsButton['image'] = logsImg
 logsButton['compound'] = TOP
 logsButton.grid(row=0, column=2)
 
 # --------------------------------Right Side------------------------------------ #
 
-rightFrame = Frame(mainFrame, padding=borWidth/5, style='PinkBG.TFrame')
+rightFrame = Frame(homeFrame, padding=borWidth/5, style='PinkBG.TFrame')
 rightFrame['width']  = frameWidth * 0.5
 rightFrame['height'] = mainFrame['height']
 rightFrame.grid(row=0, column=1)
@@ -217,6 +243,33 @@ rightFrame.grid_columnconfigure(2, weight=1)
 rightFrame.grid_rowconfigure(0, weight=1)
 rightFrame.grid_rowconfigure(2, weight=1)
 rightFrame.grid_rowconfigure(4, weight=1)
+
+#======================================================================
+
+# TODO: implement the other frame below
+
+probeFrame = Frame(mainFrame, style='PinkBG.TFrame')
+probeFrame.grid(row=1, column=0)
+
+b1 = Button(probeFrame, text = 'test probe -> return home', command=home)
+b1.grid(row=0, column=0)
+
+cameraFrame = Frame(mainFrame, style='PinkBG.TFrame')
+cameraFrame.grid(row=2, column=0)
+
+b2 = Button(cameraFrame, text = 'test camera -> return home', command=home)
+b2.grid(row=0, column=0)
+
+logsFrame = Frame(mainFrame, style='PinkBG.TFrame')
+logsFrame.grid(row=3, column=0)
+
+b3 = Button(logsFrame, text = 'test logs -> return home', command=home)
+b3.grid(row=0, column=0)
+
+# hide the other frames
+probeFrame.grid_remove()
+cameraFrame.grid_remove()
+logsFrame.grid_remove()
 
 # prevent resizing
 window.attributes('-fullscreen', True)
