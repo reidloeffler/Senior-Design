@@ -79,14 +79,19 @@ borWidth = screenHeight * 0.025
 style = Style()
 style.configure('Border.TFrame', background='#404040')
 style.configure('PinkBG.TFrame', background='#FFE0E0', foreground='black')
+style.configure('Black.TFrame', background='black', foreground='white')
 style.configure('TopBG.TFrame', background='#E0C0C0')
 
 style.configure('PinkBG.TLabel', background='#FFE0E0', foreground='black',
                 font=(None, 32, 'bold'))
 style.configure('Light.TLabel', background='#E0F0F0', foreground='black',
                 font=(None, 16))
+style.configure('Dark.TLabel', background='black', foreground='grey50',
+                font=(None, 16))
 
 style.configure('Light.TButton', background='#E0F0F0', foreground='grey50',
+                font=(None, 16))
+style.configure('Dark.TButton', background='#E0F0F0', foreground='black',
                 font=(None, 16))
 
 """
@@ -244,7 +249,7 @@ rightFrame.grid_rowconfigure(0, weight=1)
 rightFrame.grid_rowconfigure(2, weight=1)
 rightFrame.grid_rowconfigure(4, weight=1)
 
-#======================================================================
+#===================================================================================================
 
 # TODO: implement the other frame below
 
@@ -254,11 +259,40 @@ probeFrame.grid(row=1, column=0)
 b1 = Button(probeFrame, text = 'test probe -> return home', command=home)
 b1.grid(row=0, column=0)
 
-cameraFrame = Frame(mainFrame, style='PinkBG.TFrame')
-cameraFrame.grid(row=2, column=0)
+#===================================================================================================
 
-b2 = Button(cameraFrame, text = 'test camera -> return home', command=home)
+cameraFrame = Frame(mainFrame, style='PinkBG.TFrame', padding=borWidth/2)
+cameraFrame['width']  = frameWidth
+cameraFrame['height'] = mainFrame['height']
+cameraFrame.grid(row=2, column=0)
+cameraFrame.grid_propagate(False)
+
+picFrame = Frame(cameraFrame, style='Black.TFrame')
+picFrame['width']  = frameWidth - borWidth
+picFrame['height'] = mainFrame['height'] * 0.80
+picFrame.grid(row=0, column=0)
+
+buttonsFrame = Frame(cameraFrame, style='PinkBG.TFrame')
+buttonsFrame['width']  = frameWidth - borWidth
+buttonsFrame['height'] = mainFrame['height'] * 0.10
+buttonsFrame.grid(row=2, column=0)
+buttonsFrame.grid_propagate(False)
+
+b2 = Button(buttonsFrame, text="< Back", style='Dark.TButton', command=home)
 b2.grid(row=0, column=0)
+
+picButton = Button(buttonsFrame, text="Take Picture", style='Dark.TButton')     # TODO: add command
+picButton.grid(row=0, column=2)
+
+helpB2 = Button(buttonsFrame, text="Help", style='Dark.TButton')                # TODO: add command
+helpB2.grid(row=0, column=4)
+
+buttonsFrame.grid_columnconfigure(1, weight=1)
+buttonsFrame.grid_columnconfigure(3, weight=1)
+
+cameraFrame.grid_rowconfigure(1, weight=1)
+
+#===================================================================================================
 
 logsFrame = Frame(mainFrame, style='PinkBG.TFrame')
 logsFrame.grid(row=3, column=0)
