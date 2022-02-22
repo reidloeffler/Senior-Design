@@ -82,17 +82,11 @@ style.configure('PinkBG.TFrame', background='#FFE0E0', foreground='black')
 style.configure('Black.TFrame', background='black', foreground='white')
 style.configure('TopBG.TFrame', background='#E0C0C0')
 
-style.configure('PinkBG.TLabel', background='#FFE0E0', foreground='black',
-                font=(None, 32, 'bold'))
-style.configure('Light.TLabel', background='#E0F0F0', foreground='black',
-                font=(None, 16))
-style.configure('Dark.TLabel', background='black', foreground='grey50',
-                font=(None, 16))
+style.configure('PinkBG.TLabel', background='#FFE0E0', foreground='black', font=(None, 32, 'bold'))
+style.configure('Light.TLabel', background='#E0F0F0', foreground='grey25', font=(None, 16))
+style.configure('Dark.TLabel', background='black', foreground='grey50', font=(None, 32, 'bold'))
 
-style.configure('Light.TButton', background='#E0F0F0', foreground='grey50',
-                font=(None, 16))
-style.configure('Dark.TButton', background='#E0F0F0', foreground='black',
-                font=(None, 16))
+style.configure('Light.TButton', background='#E0F0F0', foreground='grey25', font=(None, 16))
 
 """
     Frame(parent, options...)
@@ -271,6 +265,15 @@ picFrame = Frame(cameraFrame, style='Black.TFrame')
 picFrame['width']  = frameWidth - borWidth
 picFrame['height'] = mainFrame['height'] * 0.80
 picFrame.grid(row=0, column=0)
+picFrame.grid_propagate(False)
+
+cameraPlaceholder = Label(picFrame, style='Dark.TLabel', text="[Camera Feed]")
+cameraPlaceholder.grid(row=1, column=1)
+
+picFrame.grid_rowconfigure(0, weight=1)
+picFrame.grid_rowconfigure(2, weight=1)
+picFrame.grid_columnconfigure(0, weight=1)
+picFrame.grid_columnconfigure(2, weight=1)
 
 buttonsFrame = Frame(cameraFrame, style='PinkBG.TFrame')
 buttonsFrame['width']  = frameWidth - borWidth
@@ -278,13 +281,13 @@ buttonsFrame['height'] = mainFrame['height'] * 0.10
 buttonsFrame.grid(row=2, column=0)
 buttonsFrame.grid_propagate(False)
 
-b2 = Button(buttonsFrame, text="< Back", style='Dark.TButton', command=home)
+b2 = Button(buttonsFrame, text="< Back", style='Light.TButton', command=home)
 b2.grid(row=0, column=0)
 
-picButton = Button(buttonsFrame, text="Take Picture", style='Dark.TButton')     # TODO: add command
+picButton = Button(buttonsFrame, text="Take Picture", style='Light.TButton')    # TODO: add command
 picButton.grid(row=0, column=2)
 
-helpB2 = Button(buttonsFrame, text="Help", style='Dark.TButton')                # TODO: add command
+helpB2 = Button(buttonsFrame, text="Help", style='Light.TButton')               # TODO: add command
 helpB2.grid(row=0, column=4)
 
 buttonsFrame.grid_columnconfigure(1, weight=1)
