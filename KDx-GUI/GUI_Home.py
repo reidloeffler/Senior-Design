@@ -245,13 +245,26 @@ rightFrame.grid_rowconfigure(4, weight=1)
 
 #===================================================================================================
 
-# TODO: implement the other frame below
-
-probeFrame = Frame(mainFrame, style='PinkBG.TFrame')
+probeFrame = Frame(mainFrame, style='PinkBG.TFrame', padding=borWidth/2)
+probeFrame['width']  = frameWidth
+probeFrame['height'] = mainFrame['height']
 probeFrame.grid(row=1, column=0)
+probeFrame.grid_propagate(False)
 
-b1 = Button(probeFrame, text = 'test probe -> return home', command=home)
-b1.grid(row=0, column=0)
+b1 = Button(probeFrame, text="< Back", style='Light.TButton', command=home)
+b1.grid(row=2, column=0, sticky=(W, S))
+
+startProbe = Button(probeFrame, text="Start Measuring", style='Light.TButton')      # TODO: command
+startProbe.grid(row=0, column=1)
+
+helpB1 = Button(probeFrame, text="Help", style='Light.TButton')                     # TODO: command
+helpB1.grid(row=2, column=2, sticky=(E, S))
+
+probeFrame.grid_columnconfigure(0, weight=1)
+probeFrame.grid_columnconfigure(2, weight=1)
+
+probeFrame.grid_rowconfigure(0, weight=1)
+probeFrame.grid_rowconfigure(1, weight=1)
 
 #===================================================================================================
 
@@ -284,10 +297,10 @@ buttonsFrame.grid_propagate(False)
 b2 = Button(buttonsFrame, text="< Back", style='Light.TButton', command=home)
 b2.grid(row=0, column=0)
 
-picButton = Button(buttonsFrame, text="Take Picture", style='Light.TButton')    # TODO: add command
+picButton = Button(buttonsFrame, text="Take Picture", style='Light.TButton')        # TODO: command
 picButton.grid(row=0, column=2)
 
-helpB2 = Button(buttonsFrame, text="Help", style='Light.TButton')               # TODO: add command
+helpB2 = Button(buttonsFrame, text="Help", style='Light.TButton')                   # TODO: command
 helpB2.grid(row=0, column=4)
 
 buttonsFrame.grid_columnconfigure(1, weight=1)
@@ -297,11 +310,44 @@ cameraFrame.grid_rowconfigure(1, weight=1)
 
 #===================================================================================================
 
-logsFrame = Frame(mainFrame, style='PinkBG.TFrame')
+logsFrame = Frame(mainFrame, style='PinkBG.TFrame', padding=borWidth/2)
+logsFrame['width']  = frameWidth
+logsFrame['height'] = mainFrame['height']
 logsFrame.grid(row=3, column=0)
+logsFrame.grid_propagate(False)
 
-b3 = Button(logsFrame, text = 'test logs -> return home', command=home)
-b3.grid(row=0, column=0)
+numHeading = Label(logsFrame, text="Number", style='PinkBG.TLabel')
+numHeading.grid(row=0, column=0)
+
+dayHeading = Label(logsFrame, text="Day", style='PinkBG.TLabel')
+dayHeading.grid(row=0, column=1)
+
+dateHeading = Label(logsFrame, text="Date", style='PinkBG.TLabel')
+dateHeading.grid(row=0, column=2)
+
+timeHeading = Label(logsFrame, text="Time", style='PinkBG.TLabel')
+timeHeading.grid(row=0, column=3)
+
+KHeading = Label(logsFrame, text="K intake", style='PinkBG.TLabel')
+KHeading.grid(row=0, column=4)
+
+# TODO: add table entries
+
+b3 = Button(logsFrame, text="< Back", style='Light.TButton', command=home)
+b3.grid(row=10, column=0, sticky=(W, S))
+
+helpB3 = Button(logsFrame, text="Help", style='Light.TButton')                      # TODO: command
+helpB3.grid(row=10, column=4, sticky=(E, S))
+
+logsFrame.grid_columnconfigure(0, weight=1)
+logsFrame.grid_columnconfigure(1, weight=1)
+logsFrame.grid_columnconfigure(2, weight=1)
+logsFrame.grid_columnconfigure(3, weight=1)
+logsFrame.grid_columnconfigure(4, weight=1)
+
+logsFrame.grid_rowconfigure(10, weight=1)
+
+#===================================================================================================
 
 # hide the other frames
 probeFrame.grid_remove()
