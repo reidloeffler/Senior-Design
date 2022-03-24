@@ -82,11 +82,11 @@ style.configure('PinkBG.TFrame', background='#FFE0E0', foreground='black')
 style.configure('Black.TFrame', background='black', foreground='white')
 style.configure('TopBG.TFrame', background='#E0C0C0')
 
-style.configure('PinkBG.TLabel', background='#FFE0E0', foreground='black', font=(None, 32, 'bold'))
-style.configure('Light.TLabel', background='#E0F0F0', foreground='grey25', font=(None, 16))
-style.configure('Dark.TLabel', background='black', foreground='grey50', font=(None, 32, 'bold'))
+style.configure('PinkBG.TLabel', background='#FFE0E0', foreground='black', font=(None, 50, 'bold'))
+style.configure('Light.TLabel', background='#E0F0F0', foreground='grey25', font=(None, 25))
+style.configure('Dark.TLabel', background='black', foreground='grey50', font=(None, 50, 'bold'))
 
-style.configure('Light.TButton', background='#E0F0F0', foreground='grey25', font=(None, 16))
+style.configure('Light.TButton', background='#E0F0F0', foreground='grey25', font=(None, 30))
 
 """
     Frame(parent, options...)
@@ -124,10 +124,10 @@ logoImg = ImageTk.PhotoImage(logoImg)
 logoLabel = Label(topFrame, image = logoImg, background='#E0C0C0')
 logoLabel.grid(row=0, column=0, sticky=(N, W, S))
 
-timeLabel = Label(topFrame, foreground='black', background='#E0C0C0', font=(None, 16, 'bold'))
+timeLabel = Label(topFrame, foreground='black', background='#E0C0C0', font=(None, 25, 'bold'))
 timeLabel.grid(row=0, column=1, sticky=(N, S))
 
-dateLabel = Label(topFrame, foreground='black', background='#E0C0C0', font=(None, 16, 'bold'))
+dateLabel = Label(topFrame, foreground='black', background='#E0C0C0', font=(None, 25, 'bold'))
 dateLabel.grid(row=0, column=2, sticky=(N, E, S))
 
 update_datetime()
@@ -171,7 +171,10 @@ welcomeLabel.grid(row=1, column=1)
 """
 # TODO: center button frame
 buttonFrame = Frame(leftFrame, style='PinkBG.TFrame')
+buttonFrame['height'] = (leftFrame['height'] / 4) - borWidth
+buttonFrame['width']  = leftFrame['width'] - borWidth
 buttonFrame.grid(row=3, column=1)
+buttonFrame.grid_propagate(False)
 
 # give empty columns a weight so that they consume all extra space
 leftFrame.grid_columnconfigure(0, weight=1)
@@ -188,7 +191,7 @@ probeImg = PhotoImage(file = "images/probe2.png")
 probeButton = Button(buttonFrame, text='Use Probe', style='Light.TButton', command=probe)
 probeButton['image'] = probeImg
 probeButton['compound'] = TOP
-probeButton.grid(row=0, column=0)
+probeButton.grid(row=0, column=1)
 
 cameraImg = PhotoImage(file = "images/camera2.png")
 
@@ -196,7 +199,7 @@ cameraImg = PhotoImage(file = "images/camera2.png")
 cameraButton = Button(buttonFrame, text='Use Camera', style='Light.TButton', command=camera)
 cameraButton['image'] = cameraImg
 cameraButton['compound'] = TOP
-cameraButton.grid(row=0, column=1)
+cameraButton.grid(row=0, column=3)
 
 logsImg = PhotoImage(file = "images/logs2.png")
 
@@ -204,7 +207,13 @@ logsImg = PhotoImage(file = "images/logs2.png")
 logsButton = Button(buttonFrame, text='Access Logs', style='Light.TButton', command=logs)
 logsButton['image'] = logsImg
 logsButton['compound'] = TOP
-logsButton.grid(row=0, column=2)
+logsButton.grid(row=0, column=5)
+
+# give empty columns a weight so that they consume all extra space
+buttonFrame.grid_columnconfigure(0, weight=2)
+buttonFrame.grid_columnconfigure(2, weight=1)
+buttonFrame.grid_columnconfigure(4, weight=1)
+buttonFrame.grid_columnconfigure(6, weight=2)
 
 # --------------------------------Right Side------------------------------------ #
 
@@ -217,7 +226,7 @@ rightFrame.grid_propagate(False)
 intakeImg = PhotoImage(file = "images/amount.png")
 
 # TODO: center and format font
-intakeLabel1 = Label(rightFrame, text='Potassium intake today:', style='PinkBG.TLabel')
+intakeLabel1 = Label(rightFrame, text='K+ intake today:', style='PinkBG.TLabel')
 intakeLabel1['wraplength'] = rightFrame['width'] * (2/3)
 intakeLabel1.grid(row=1, column=1)
 
@@ -227,10 +236,10 @@ intakeLabel1.grid(row=1, column=1)
 ##intakeLabel2['compound'] = TOP
 ##intakeLabel2.grid(row=3, column=1)
 
-intakeVisual = tk.Canvas(rightFrame, width=200, height=200, bg='#E0F0F0')
+intakeVisual = tk.Canvas(rightFrame, width=500, height=500, bg='#FFE0E0', highlightthickness=0)
 intakeVisual.grid(row=3, column=1)
 
-progressbar = CircularProgressbar(intakeVisual, 0, 0, 200, 200, 20)
+progressbar = CircularProgressbar(intakeVisual, 0, 0, 500, 500, 50)
 
 progressbar.start()
 

@@ -5,7 +5,7 @@ import tkinter.ttk as ttk
 class CircularProgressbar(object):
     def __init__(self, canvas, x0, y0, x1, y1, width=2, start_ang=0, full_extent=360):
 
-        self.custom_font = tkFont.Font(family='Consolas', size=20, weight='bold')
+        self.custom_font = tkFont.Font(family='Consolas', size=50, weight='bold')
         self.canvas = canvas
         self.x0, self.y0, self.x1, self.y1 = x0+width, y0+width, x1-width, y1-width
         self.tx, self.ty = (x1-x0) / 2, (y1-y0) / 2
