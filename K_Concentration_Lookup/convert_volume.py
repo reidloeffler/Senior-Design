@@ -108,7 +108,7 @@ def main():
 
     raw_data = open('raw_data_file.txt').read()
     converted_volumes = open('converted_volumes.txt', 'a')
-    look_up_table = open('look_up_table.txt', 'a')
+    look_up_table = open('lookup_table.txt', 'a')
     total_lines = calculate_total_lines(raw_data)
     line_track = 1
 

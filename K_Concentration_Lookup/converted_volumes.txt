@@ -1063,3 +1063,2133 @@ Beverages, carbonated, club soda
 Beverages, carbonated, low calorie, other than cola or pepper, with aspartame, contains caffeine
 29.57 mL
 1000 mg
+Beans, pink, mature seeds, raw
+240.0 mL
+3074000 mg
+Whey, sweet, dried
+240.0 mL
+3016000 mg
+Beans, black, mature seeds, raw
+240.0 mL
+2877000 mg
+Beans, adzuki, mature seeds, raw
+240.0 mL
+2470000 mg
+Apricots, dehydrated (low-moisture), sulfured, uncooked
+240.0 mL
+2202000 mg
+Orange juice, frozen concentrate, unsweetened,
+240.0 mL
+1648000 mg
+Soybeans, green, raw
+240.0 mL
+1587000 mg
+Peaches, dehydrated (low-moisture), sulfured, stewed
+240.0 mL
+1341000 mg
+Currants, zante, dried
+240.0 mL
+1119000 mg
+Tomato products, canned, puree, without salt added
+240.0 mL
+1098000 mg
+Tomato products, canned, puree, with salt added
+240.0 mL
+1098000 mg
+Breadfruit, raw
+240.0 mL
+1078000 mg
+Apricots, dried, sulfured, stewed, without added sugar
+240.0 mL
+1028000 mg
+Tomato products, canned, sauce, with onions
+240.0 mL
+1012000 mg
+Tomato products, canned, sauce, with onions, green peppers, and celery
+240.0 mL
+995000 mg
+Nuts, almonds, dry roasted, without salt added
+240.0 mL
+984000 mg
+Soybeans, green, cooked, boiled, drained, without salt
+240.0 mL
+970000 mg
+Lima beans, immature seeds, cooked, boiled, drained,
+240.0 mL
+969000 mg
+Snacks, trail mix, regular, with chocolate chips, unsalted nuts and seeds
+240.0 mL
+946000 mg
+Seeds, pumpkin and squash seed kernels, roasted, with
+240.0 mL
+930000 mg
+Potatoes, scalloped, home-prepared with butter
+240.0 mL
+926000 mg
+Peanuts, all types, dry-roasted, without salt
+240.0 mL
+926000 mg
+Tomato products, canned, sauce, with tomato tidbits
+240.0 mL
+910000 mg
+Peanuts, valencia, oil-roasted, without salt
+240.0 mL
+881000 mg
+Taro, tahitian, cooked, without salt
+240.0 mL
+854000 mg
+Candies, confectioner's coating, peanut butter
+240.0 mL
+848000 mg
+Amaranth leaves, cooked, boiled, drained, without salt
+240.0 mL
+846000 mg
+Passion-fruit, (granadilla), purple, raw
+240.0 mL
+821000 mg
+Beans, black turtle, mature seeds, cooked, boiled,
+240.0 mL
+801000 mg
+Nuts, hazelnuts or filberts
+240.0 mL
+782000 mg
+Beans, baked, canned, with pork
+240.0 mL
+782000 mg
+Lima beans, immature seeds, frozen, fordhook,
+240.0 mL
+765000 mg
+Nuts, chestnuts, european, raw, unpeeled
+240.0 mL
+751000 mg
+Lima beans, immature seeds, frozen, baby, unprepared
+240.0 mL
+741000 mg
+Lima beans, immature seeds, frozen, baby, cooked, boiled, drained, without salt
+240.0 mL
+740000 mg
+Beans, black turtle, mature seeds, canned
+240.0 mL
+739000 mg
+Squash, winter, hubbard, baked, with salt
+240.0 mL
+734000 mg
+Mountain yam, hawaii, cooked, steamed, without salt
+240.0 mL
+718000 mg
+Cardoon, raw
+240.0 mL
+712000 mg
+Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt
+240.0 mL
+690000 mg
+Plantains, yellow, baked
+240.0 mL
+663000 mg
+Potatoes, mashed, dehydrated, flakes without milk, dry
+240.0 mL
+659000 mg
+Seeds, sunflower seed kernels, toasted, without salt
+240.0 mL
+658000 mg
+Pears, dried, sulfured, stewed, without added sugar
+240.0 mL
+658000 mg
+Cereals ready-to-eat, granola, homemade
+240.0 mL
+658000 mg
+Seeds, sunflower seed kernels, oil roasted, without salt
+240.0 mL
+652000 mg
+Squash, winter, acorn, cooked, boiled, mashed, without
+240.0 mL
+644000 mg
+Squash, winter, acorn, cooked, boiled, mashed, with salt
+240.0 mL
+644000 mg
+Cowpeas (blackeyes), immature seeds, frozen, cooked, boiled, drained, without salt
+240.0 mL
+638000 mg
+Cabbage, chinese (pak-choi), cooked, boiled, drained, with salt
+240.0 mL
+631000 mg
+Cabbage, chinese (pak-choi), cooked, boiled, drained, without salt
+240.0 mL
+631000 mg
+Cowpeas (blackeyes), immature seeds, raw
+240.0 mL
+625000 mg
+Squash, summer, zucchini, italian style, canned
+240.0 mL
+622000 mg
+Squash, winter, butternut, cooked, baked, without salt
+240.0 mL
+582000 mg
+Edamame, frozen, unprepared
+240.0 mL
+569000 mg
+Kiwifruit, green, raw
+240.0 mL
+562000 mg
+Purslane, cooked, boiled, drained, without salt
+240.0 mL
+561000 mg
+Garlic, raw
+240.0 mL
+545000 mg
+Milk, dry, nonfat, regular, without added vitamin A and
+60.0 mL
+538000 mg
+Spinach, canned, regular pack, solids and liquids
+240.0 mL
+538000 mg
+Pomegranate juice, bottled
+240.0 mL
+533000 mg
+Mushrooms, portabella, grilled
+240.0 mL
+529000 mg
+Tomatoes, red, ripe, canned, stewed
+240.0 mL
+528000 mg
+Tomato juice, canned, without salt added
+240.0 mL
+527000 mg
+Tomato juice, canned, with salt added
+240.0 mL
+527000 mg
+Cheese substitute, mozzarella
+240.0 mL
+514000 mg
+Nuts, butternuts, dried
+240.0 mL
+505000 mg
+Squash, winter, hubbard, cooked, boiled, mashed, with
+240.0 mL
+505000 mg
+Squash, winter, hubbard, cooked, boiled, mashed,
+240.0 mL
+505000 mg
+Pork, fresh, leg (ham), whole, separable lean only,
+240.0 mL
+504000 mg
+Squash, summer, crookneck and straightneck, frozen, cooked, boiled, drained, without salt
+240.0 mL
+486000 mg
+Mollusks, mussel, blue, raw
+240.0 mL
+480000 mg
+Jute, potherb, cooked, boiled, drained, without salt
+240.0 mL
+478000 mg
+Milk, buttermilk, dried
+60.0 mL
+478000 mg
+Corn grain, white
+240.0 mL
+476000 mg
+Squash, summer, zucchini, includes skin, cooked, boiled, drained, without salt
+240.0 mL
+475000 mg
+Vegetable juice cocktail, canned
+240.0 mL
+468000 mg
+Drumstick pods, raw
+240.0 mL
+461000 mg
+Tomatoes, red, ripe, canned, packed in tomato juice
+240.0 mL
+458000 mg
+Barley flour or meal
+240.0 mL
+457000 mg
+Peas, mature seeds, sprouted, raw
+240.0 mL
+457000 mg
+Rice flour, brown
+240.0 mL
+457000 mg
+Milk, reduced fat, fluid, 2% milkfat, protein fortified, with added vitamin A and vitamin D
+240.0 mL
+448000 mg
+Milk, nonfat, fluid, protein fortified, with added vitamin A and vitamin D (fat free and skim)
+240.0 mL
+448000 mg
+Pork, fresh, shoulder, whole, separable lean and fat, cooked, roasted
+240.0 mL
+444000 mg
+Orange juice, chilled, includes from concentrate, with added calcium and vitamin D
+240.0 mL
+443000 mg
+Orange juice, chilled, includes from concentrate, with
+240.0 mL
+443000 mg
+Milk, lowfat, fluid, 1% milkfat, protein fortified, with added vitamin A and vitamin D
+240.0 mL
+443000 mg
+Beets, raw
+240.0 mL
+442000 mg
+Seeds, lotus seeds, dried
+240.0 mL
+438000 mg
+Soup, beef and vegetables, canned, ready-to-serve
+240.0 mL
+435000 mg
+Celery, cooked, boiled, drained, without salt
+240.0 mL
+426000 mg
+Milk, chocolate, fluid, commercial, reduced fat, with added vitamin A and vitamin D
+240.0 mL
+422000 mg
+Grapefruit, sections, canned, juice pack, solids and
+240.0 mL
+421000 mg
+Eggnog
+240.0 mL
+419000 mg
+Milk, chocolate, fluid, commercial, whole, with added vitamin A and vitamin D
+240.0 mL
+418000 mg
+Asparagus, canned, drained solids
+240.0 mL
+416000 mg
+Carrots, raw
+240.0 mL
+410000 mg
+Grapefruit juice, white, canned, sweetened
+240.0 mL
+405000 mg
+Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program)
+240.0 mL
+395000 mg
+Sorghum flour, whole-grain
+240.0 mL
+392000 mg
+Beets, canned, regular pack, solids and liquids
+240.0 mL
+391000 mg
+Corn, sweet, yellow, canned, vacuum pack, regular pack
+240.0 mL
+391000 mg
+Carissa, (natal-plum), raw
+240.0 mL
+390000 mg
+Oat flour, partially debranned
+240.0 mL
+386000 mg
+Corn, sweet, yellow, frozen, kernels cut off cob, boiled, drained, without salt
+240.0 mL
+384000 mg
+Sweet potato, canned, syrup pack, drained solids
+240.0 mL
+378000 mg
+Milk, producer, fluid, 3.7% milkfat
+240.0 mL
+368000 mg
+Turnip greens, frozen, cooked, boiled, drained, without
+240.0 mL
+367000 mg
+Turkey, all classes, back, meat and skin, cooked, roasted
+240.0 mL
+364000 mg
+Apricots, canned, heavy syrup pack, with skin, solids and
+240.0 mL
+361000 mg
+Currants, european black, raw
+240.0 mL
+361000 mg
+Chicken, broilers or fryers, dark meat, meat only,
+240.0 mL
+354000 mg
+Peas, green, raw
+240.0 mL
+354000 mg
+Turnip greens and turnips, frozen, cooked, boiled,
+240.0 mL
+352000 mg
+Cornmeal, white, self-rising, bolted, with wheat flour added, enriched
+240.0 mL
+352000 mg
+Cornmeal, whole-grain, white
+240.0 mL
+350000 mg
+Corn, sweet, yellow, canned, brine pack, regular pack, solids and liquids
+240.0 mL
+348000 mg
+Grapefruit, raw, white, Florida
+240.0 mL
+345000 mg
+Potatoes, mashed, dehydrated, prepared from flakes without milk, whole milk and butter added
+240.0 mL
+344000 mg
+Beans, kidney, mature seeds, sprouted, raw
+240.0 mL
+344000 mg
+Brussels sprouts, raw
+240.0 mL
+342000 mg
+Cheese spread, pasteurized process, American
+240.0 mL
+339000 mg
+Blackberry juice, canned
+240.0 mL
+338000 mg
+Soup, cream of chicken, canned, condensed, reduced
+120.0 mL
+337000 mg
+Milk, sheep, fluid
+240.0 mL
+336000 mg
+Soybeans, mature seeds, sprouted, cooked, steamed
+240.0 mL
+334000 mg
+Oranges, raw, with peel
+240.0 mL
+333000 mg
+Broccoli, frozen, chopped, unprepared
+240.0 mL
+331000 mg
+Potatoes, mashed, dehydrated, prepared from granules with milk, water and margarine added
+240.0 mL
+326000 mg
+Litchis, raw
+240.0 mL
+325000 mg
+Cherries, sweet, canned, water pack, solids and liquids
+240.0 mL
+325000 mg
+Tangerines, (mandarin oranges), raw
+240.0 mL
+324000 mg
+Oranges, raw, California, valencias
+240.0 mL
+322000 mg
+Grapefruit, sections, canned, water pack, solids and
+240.0 mL
+322000 mg
+Squash, winter, butternut, frozen, cooked, boiled,
+240.0 mL
+319000 mg
+Potatoes, flesh and skin, raw
+120.0 mL
+319000 mg
+Apricots, canned, heavy syrup, drained
+240.0 mL
+313000 mg
+Grapefruit, raw, pink and red, all areas
+240.0 mL
+310000 mg
+Asparagus, frozen, cooked, boiled, drained, without salt
+240.0 mL
+310000 mg
+Currants, red and white, raw
+240.0 mL
+308000 mg
+Nuts, coconut meat, dried (desiccated), sweetened, flaked, packaged
+240.0 mL
+307000 mg
+Cherries, sweet, raw
+240.0 mL
+306000 mg
+Soup, pea, split with ham, canned, chunky, ready-to-
+240.0 mL
+305000 mg
+Pokeberry shoots, (poke), cooked, boiled, drained,
+240.0 mL
+304000 mg
+Cress, garden, raw
+240.0 mL
+303000 mg
+Potatoes, mashed, dehydrated, prepared from granules without milk, whole milk and butter added
+240.0 mL
+302000 mg
+Cheese, pasteurized process, swiss
+240.0 mL
+302000 mg
+Yardlong bean, cooked, boiled, drained, without salt
+240.0 mL
+302000 mg
+Corn flour, yellow, masa, enriched
+240.0 mL
+299000 mg
+Tofu, raw, firm, prepared with calcium sulfate
+120.0 mL
+299000 mg
+Gooseberries, raw
+240.0 mL
+297000 mg
+Turnip greens, cooked, boiled, drained, without salt
+240.0 mL
+292000 mg
+Corn, sweet, yellow, frozen, kernels cut off cob, unprepared (Includes foods for USDA's Food Distribution
+240.0 mL
+290000 mg
+Beet greens, raw
+240.0 mL
+290000 mg
+Cheese food, pasteurized process, American, vitamin D
+240.0 mL
+288000 mg
+Mountain yam, hawaii, raw
+120.0 mL
+284000 mg
+Turnips, frozen, cooked, boiled, drained, without salt
+240.0 mL
+284000 mg
+Lime juice, raw
+240.0 mL
+283000 mg
+Water convolvulus, cooked, boiled, drained, with salt
+240.0 mL
+278000 mg
+Milk substitutes, fluid, with lauric acid oil
+240.0 mL
+278000 mg
+Mangos, raw
+240.0 mL
+277000 mg
+Peas, edible-podded, frozen, unprepared
+240.0 mL
+276000 mg
+Mushrooms, Chanterelle, raw
+240.0 mL
+273000 mg
+Cheese, ricotta, whole milk
+120.0 mL
+272000 mg
+Radishes, raw
+240.0 mL
+270000 mg
+Teff, cooked
+240.0 mL
+270000 mg
+Grapes, canned, thompson seedless, water pack, solids
+240.0 mL
+262000 mg
+Carrots, canned, regular pack, drained solids
+240.0 mL
+261000 mg
+Broccoli, frozen, chopped, cooked, boiled, drained,
+240.0 mL
+261000 mg
+Chicken, gizzard, all classes, cooked, simmered
+240.0 mL
+260000 mg
+Chicken, broilers or fryers, drumstick, meat and skin, cooked, stewed
+240.0 mL
+258000 mg
+Potatoes, boiled, cooked without skin, flesh, with salt
+120.0 mL
+256000 mg
+Potatoes, boiled, cooked without skin, flesh, without salt
+120.0 mL
+256000 mg
+Figs, canned, water pack, solids and liquids
+240.0 mL
+255000 mg
+Beverages, Meal supplement drink, canned, peanut
+240.0 mL
+253000 mg
+Lemon juice, raw
+240.0 mL
+251000 mg
+Cheese, mozzarella, low moisture, part-skim
+240.0 mL
+248000 mg
+Peaches, canned, light syrup pack, solids and liquids
+240.0 mL
+243000 mg
+Peaches, canned, water pack, solids and liquids
+240.0 mL
+242000 mg
+Macaroni, vegetable, enriched, dry
+240.0 mL
+239000 mg
+Cherries, sour, red, canned, light syrup pack, solids and
+240.0 mL
+239000 mg
+Cornmeal, white, self-rising, degermed, enriched
+240.0 mL
+235000 mg
+Onions, raw
+240.0 mL
+234000 mg
+Boysenberries, canned, heavy syrup
+240.0 mL
+230000 mg
+Hyacinth-beans, immature seeds, cooked, boiled, drained, without salt
+240.0 mL
+228000 mg
+Kale, frozen, unprepared
+240.0 mL
+223000 mg
+CAMPBELL'S CHUNKY, Classic Chicken Noodle Soup
+240.0 mL
+219000 mg
+Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, heavy syrup, solids and liquids
+240.0 mL
+218000 mg
+Peaches, canned, extra heavy syrup pack, solids and liquids
+240.0 mL
+217000 mg
+Beans, snap, green, frozen, cooked, boiled, drained
+240.0 mL
+215000 mg
+Loganberries, frozen
+240.0 mL
+213000 mg
+Puddings, chocolate, dry mix, regular, prepared with
+120.0 mL
+213000 mg
+Rice, white, long-grain, regular, raw, unenriched
+240.0 mL
+213000 mg
+Purslane, raw
+240.0 mL
+212000 mg
+Onions, frozen, whole, cooked, boiled, drained, without
+240.0 mL
+212000 mg
+Blackberries, frozen, unsweetened
+240.0 mL
+211000 mg
+Asparagus, canned, regular pack, solids and liquids
+120.0 mL
+210000 mg
+Cereals, oats, instant, fortified, with raisins and spice, prepared with water
+240.0 mL
+204000 mg
+Pasta, dry, enriched
+240.0 mL
+203000 mg
+Pasta, dry, unenriched
+240.0 mL
+203000 mg
+Asparagus, cooked, boiled, drained
+120.0 mL
+202000 mg
+Cheese, cottage, nonfat, uncreamed, dry, large or small curd
+240.0 mL
+199000 mg
+Peas, edible-podded, raw
+240.0 mL
+196000 mg
+Biscuits, plain or buttermilk, dry mix
+240.0 mL
+196000 mg
+Carrots, canned, no salt added, solids and liquids
+120.0 mL
+194000 mg
+Cherries, sour, red, frozen, unsweetened (Includes foods for USDA's Food Distribution Program)
+240.0 mL
+192000 mg
+Cauliflower, green, raw
+240.0 mL
+192000 mg
+Fruit salad, (peach and pear and apricot and pineapple and cherry), canned, water pack, solids and liquids
+240.0 mL
+191000 mg
+Gravy, beef, canned, ready-to-serve
+240.0 mL
+189000 mg
+Beverages, chocolate powder, no sugar added
+29.57 mL
+188000 mg
+Cereals, WHEATENA, cooked with water
+240.0 mL
+187000 mg
+Soup, pea, green, canned, condensed
+120.0 mL
+186000 mg
+Applesauce, canned, sweetened, without salt
+240.0 mL
+184000 mg
+Turnip greens, frozen, cooked, boiled, drained, with salt
+120.0 mL
+184000 mg
+Boysenberries, frozen, unsweetened
+240.0 mL
+183000 mg
+Cheese, provolone
+240.0 mL
+182000 mg
+Cabbage, chinese (pe-tsai), raw
+240.0 mL
+181000 mg
+Cheese, parmesan, grated
+240.0 mL
+180000 mg
+Beverages, almond milk, chocolate, ready-to-drink
+236.59 mL
+180000 mg
+Cheese, muenster
+240.0 mL
+177000 mg
+Grapes, american type (slip skin), raw
+240.0 mL
+176000 mg
+Carambola, (starfruit), raw
+240.0 mL
+176000 mg
+Corn, sweet, yellow, canned, drained solids, rinsed with tap water
+240.0 mL
+174000 mg
+Soup, chicken, canned, chunky, ready-to-serve
+240.0 mL
+172000 mg
+Okra, frozen, cooked, boiled, drained, without salt
+120.0 mL
+169000 mg
+Beverages, Orange drink, breakfast type, with juice and pulp, frozen concentrate
+29.57 mL
+169000 mg
+Spinach, raw
+240.0 mL
+167000 mg
+Pears, canned, light syrup pack, solids and liquids
+240.0 mL
+166000 mg
+Cowpeas, leafy tips, raw
+240.0 mL
+164000 mg
+Pears, raw
+240.0 mL
+162000 mg
+Cheese, ricotta, part skim milk
+120.0 mL
+155000 mg
+Turnip greens, frozen, unprepared
+120.0 mL
+151000 mg
+Carrots, frozen, unprepared (Includes foods for USDA's Food Distribution Program)
+120.0 mL
+150000 mg
+Infant formula, ABBOTT NUTRITION, SIMILAC, GO AND GROW, ready-to-feed, with ARA and DHA
+147.87 mL
+150000 mg
+Rowal, raw
+120.0 mL
+149000 mg
+Blueberries, wild, canned, heavy syrup, drained
+240.0 mL
+147000 mg
+Milk, canned, condensed, sweetened
+29.57 mL
+142000 mg
+Blueberries, frozen, sweetened
+240.0 mL
+138000 mg
+Wheat flour, white, bread, enriched
+240.0 mL
+137000 mg
+Wheat flour, white, all-purpose, unenriched
+240.0 mL
+134000 mg
+Wheat flour, white, all-purpose, enriched, calcium-
+240.0 mL
+134000 mg
+Apples, frozen, unsweetened, unheated (Includes foods for USDA's Food Distribution Program)
+240.0 mL
+133000 mg
+Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, extra light syrup, solids and liquids
+120.0 mL
+128000 mg
+Mung beans, mature seeds, sprouted, cooked, boiled, drained, without salt
+240.0 mL
+125000 mg
+Soup, cream of celery, canned, prepared with equal
+240.0 mL
+124000 mg
+Dessert topping, powdered, 1.5 ounce prepared with
+240.0 mL
+121000 mg
+Beverages, almond milk, sweetened, vanilla flavor, ready-
+236.59 mL
+120000 mg
+Nuts, almond butter, plain, with salt added
+14.79 mL
+120000 mg
+Cream, fluid, light whipping
+240.0 mL
+116000 mg
+Cream, fluid, heavy whipping
+240.0 mL
+114000 mg
+Milk, canned, evaporated, nonfat, with added vitamin A and vitamin D
+29.57 mL
+106000 mg
+Cheese, cheddar (Includes foods for USDA's Food Distribution Program)
+240.0 mL
+100000 mg
+Apples, raw, without skin
+240.0 mL
+99000 mg
+Soup, beef noodle, canned, condensed
+120.0 mL
+99000 mg
+Fish, herring, Atlantic, pickled
+240.0 mL
+97000 mg
+Milk, canned, evaporated, with added vitamin D and without added vitamin A
+29.57 mL
+95000 mg
+Cheese, swiss
+240.0 mL
+95000 mg
+Liverwurst spread
+60.0 mL
+94000 mg
+Cheese, feta
+240.0 mL
+93000 mg
+Noodles, egg, dry, unenriched
+240.0 mL
+93000 mg
+Cream, whipped, cream topping, pressurized
+240.0 mL
+88000 mg
+Cheese, mozzarella, whole milk
+240.0 mL
+85000 mg
+Onions, dehydrated flakes
+14.79 mL
+81000 mg
+Soup, cream of mushroom, canned, condensed
+120.0 mL
+81000 mg
+Endive, raw
+120.0 mL
+78000 mg
+Broccoli raab, raw
+240.0 mL
+78000 mg
+Cranberry sauce, canned, sweetened
+240.0 mL
+78000 mg
+Kale, raw
+240.0 mL
+73000 mg
+Cereals, corn grits, white, regular and quick, enriched, cooked with water, with salt
+240.0 mL
+69000 mg
+Cereals, corn grits, white, regular and quick, enriched, cooked with water, without salt
+240.0 mL
+69000 mg
+Syrups, table blends, pancake, with 2% maple, with added potassium
+240.0 mL
+69000 mg
+Cheese, mexican, queso chihuahua
+240.0 mL
+69000 mg
+Tamarind nectar, canned
+240.0 mL
+68000 mg
+Milk shakes, thick chocolate
+29.57 mL
+64000 mg
+Beverages, coffee, instant, decaffeinated, powder
+4.93 mL
+63000 mg
+Spices, turmeric, ground
+4.93 mL
+62000 mg
+Noodles, egg, unenriched, cooked, without added salt
+240.0 mL
+61000 mg
+Noodles, egg, spinach, enriched, cooked
+240.0 mL
+59000 mg
+Soup, cream of shrimp, canned, prepared with equal
+240.0 mL
+59000 mg
+Rice, white, long-grain, regular, cooked, unenriched,
+240.0 mL
+55000 mg
+Rice, white, medium-grain, cooked, unenriched
+240.0 mL
+54000 mg
+Cereals, corn grits, yellow, regular and quick, enriched, cooked with water, without salt
+240.0 mL
+51000 mg
+Noodles, japanese, somen, cooked
+240.0 mL
+51000 mg
+Cereals, CREAM OF RICE, cooked with water, with salt
+240.0 mL
+49000 mg
+Nuts, coconut cream, raw (liquid expressed from grated
+14.79 mL
+49000 mg
+Cereals, CREAM OF WHEAT, instant, prepared with water, without salt
+240.0 mL
+48000 mg
+Syrups, table blends, pancake
+240.0 mL
+47000 mg
+Soup, chicken with rice, canned, condensed
+120.0 mL
+43000 mg
+Macaroni, vegetable, enriched, cooked
+240.0 mL
+42000 mg
+Cream, fluid, light (coffee cream or table cream)
+29.57 mL
+41000 mg
+Cream, fluid, half and half
+29.57 mL
+40000 mg
+Spices, anise seed
+4.93 mL
+30000 mg
+Spices, caraway seed
+4.93 mL
+28000 mg
+Alcoholic beverage, pina colada, canned
+29.57 mL
+27000 mg
+Spices, ginger, ground
+4.93 mL
+24000 mg
+Spices, curry powder
+4.93 mL
+23000 mg
+Infant formula, MEAD JOHNSON, ENFAMIL, Premature, with iron, 24 calories, ready-to-feed
+29.57 mL
+23000 mg
+Infant formula, GERBER, GOOD START 2 Soy, with iron,
+29.57 mL
+23000 mg
+Infant formula, GERBER, GOOD START 2, PROTECT PLUS, ready-to-feed
+29.57 mL
+22000 mg
+Infant formula, ABBOTT NUTRITION, SIMILAC, Expert Care, Diarrhea, ready- to- feed with ARA and DHA
+29.57 mL
+22000 mg
+Infant Formula, GERBER GOOD START 2, GENTLE PLUS,
+29.57 mL
+22000 mg
+Infant formula, ABBOTT NUTRITION, SIMILAC, For Spit Up, ready-to-feed, with ARA and DHA
+29.57 mL
+21000 mg
+Alcoholic beverage, wine, table, white
+29.57 mL
+21000 mg
+Alcoholic beverage, wine, table, white, Chardonnay
+29.57 mL
+21000 mg
+Sour dressing, non-butterfat, cultured, filled cream-type
+14.79 mL
+19000 mg
+Cream, sour, reduced fat, cultured
+14.79 mL
+19000 mg
+Nuts, coconut cream, canned, sweetened
+14.79 mL
+19000 mg
+Cheese, cream
+14.79 mL
+19000 mg
+Sauce, cheese, ready-to-serve
+60.0 mL
+19000 mg
+Beverages, cranberry-apricot juice drink, bottled
+29.57 mL
+19000 mg
+Spices, tarragon, dried
+4.93 mL
+18000 mg
+Egg, whole, cooked, omelet
+14.79 mL
+18000 mg
+Sweeteners, for baking, brown, contains sugar and
+14.79 mL
+17000 mg
+Onions, frozen, chopped, cooked, boiled, drained,
+14.79 mL
+16000 mg
+Cereals ready-to-eat, rice, puffed, fortified
+240.0 mL
+16000 mg
+Cream, sour, cultured
+14.79 mL
+15000 mg
+Spices, mustard seed, ground
+4.93 mL
+15000 mg
+Spices, savory, ground
+4.93 mL
+15000 mg
+Dessert topping, pressurized
+240.0 mL
+13000 mg
+Cereals, CREAM OF WHEAT, instant, dry
+14.79 mL
+13000 mg
+Orange peel, raw
+14.79 mL
+13000 mg
+Beverages, coffee substitute, cereal grain beverage, prepared with water
+29.57 mL
+12000 mg
+Spices, cinnamon, ground
+4.93 mL
+11000 mg
+Alcoholic beverage, liqueur, coffee, 63 proof
+29.57 mL
+10000 mg
+Spices, marjoram, dried
+4.93 mL
+9000 mg
+Beverages, Whiskey sour mix, bottled
+29.57 mL
+9000 mg
+Ginger root, raw
+4.93 mL
+8000 mg
+Chicken, broilers or fryers, separable fat, raw
+14.79 mL
+8000 mg
+Spices, thyme, dried
+4.93 mL
+8000 mg
+Salad dressing, KRAFT Mayo Fat Free Mayonnaise
+14.79 mL
+8000 mg
+Spices, mace, ground
+4.93 mL
+8000 mg
+Spices, nutmeg, ground
+4.93 mL
+8000 mg
+Alcoholic beverage, beer, light, BUD LIGHT
+29.57 mL
+8000 mg
+Beverages, cranberry-grape juice drink, bottled
+29.57 mL
+7000 mg
+Beverages, Energy drink, ROCKSTAR, sugar free
+236.59 mL
+7000 mg
+Rice noodles, cooked
+240.0 mL
+7000 mg
+Vanilla extract
+4.93 mL
+6000 mg
+Salad dressing, mayonnaise type, regular, with salt
+14.79 mL
+5000 mg
+Beverages, Energy drink, AMP, sugar free
+236.59 mL
+5000 mg
+Beverages, Propel Zero, fruit-flavored, non-carbonated
+29.57 mL
+5000 mg
+Tree fern, cooked, without salt
+120.0 mL
+4000 mg
+Alcoholic beverage, whiskey sour, canned
+29.57 mL
+3000 mg
+Alcoholic beverage, daiquiri, canned
+29.57 mL
+3000 mg
+Spices, bay leaf
+4.93 mL
+3000 mg
+Alcoholic beverage, tequila sunrise, canned
+29.57 mL
+3000 mg
+Margarine-like, margarine-butter blend, soybean oil and
+14.79 mL
+3000 mg
+Salad dressing, mayonnaise, regular
+14.79 mL
+3000 mg
+Beverages, carbonated, low calorie, cola or pepper-type, with aspartame, contains caffeine
+29.57 mL
+2000 mg
+Whiskey sour mix, bottled, with added potassium and
+29.57 mL
+2000 mg
+Salad dressing, mayonnaise, imitation, soybean
+14.79 mL
+2000 mg
+Beverages, carbonated, reduced sugar, cola, contains caffeine and sweeteners
+29.57 mL
+1000 mg
+Olives, ripe, canned (small-extra large)
+14.79 mL
+1000 mg
+Beverages, carbonated, club soda
+29.57 mL
+1000 mg
+Beverages, carbonated, low calorie, other than cola or pepper, with aspartame, contains caffeine
+29.57 mL
+1000 mg
+Beans, pink, mature seeds, raw
+240.0 mL
+3074000 mg
+Whey, sweet, dried
+240.0 mL
+3016000 mg
+Beans, black, mature seeds, raw
+240.0 mL
+2877000 mg
+Beans, adzuki, mature seeds, raw
+240.0 mL
+2470000 mg
+Apricots, dehydrated (low-moisture), sulfured, uncooked
+240.0 mL
+2202000 mg
+Orange juice, frozen concentrate, unsweetened,
+240.0 mL
+1648000 mg
+Soybeans, green, raw
+240.0 mL
+1587000 mg
+Peaches, dehydrated (low-moisture), sulfured, stewed
+240.0 mL
+1341000 mg
+Currants, zante, dried
+240.0 mL
+1119000 mg
+Tomato products, canned, puree, without salt added
+240.0 mL
+1098000 mg
+Tomato products, canned, puree, with salt added
+240.0 mL
+1098000 mg
+Breadfruit, raw
+240.0 mL
+1078000 mg
+Apricots, dried, sulfured, stewed, without added sugar
+240.0 mL
+1028000 mg
+Tomato products, canned, sauce, with onions
+240.0 mL
+1012000 mg
+Tomato products, canned, sauce, with onions, green peppers, and celery
+240.0 mL
+995000 mg
+Nuts, almonds, dry roasted, without salt added
+240.0 mL
+984000 mg
+Soybeans, green, cooked, boiled, drained, without salt
+240.0 mL
+970000 mg
+Lima beans, immature seeds, cooked, boiled, drained,
+240.0 mL
+969000 mg
+Snacks, trail mix, regular, with chocolate chips, unsalted nuts and seeds
+240.0 mL
+946000 mg
+Seeds, pumpkin and squash seed kernels, roasted, with
+240.0 mL
+930000 mg
+Potatoes, scalloped, home-prepared with butter
+240.0 mL
+926000 mg
+Peanuts, all types, dry-roasted, without salt
+240.0 mL
+926000 mg
+Tomato products, canned, sauce, with tomato tidbits
+240.0 mL
+910000 mg
+Peanuts, valencia, oil-roasted, without salt
+240.0 mL
+881000 mg
+Taro, tahitian, cooked, without salt
+240.0 mL
+854000 mg
+Candies, confectioner's coating, peanut butter
+240.0 mL
+848000 mg
+Amaranth leaves, cooked, boiled, drained, without salt
+240.0 mL
+846000 mg
+Passion-fruit, (granadilla), purple, raw
+240.0 mL
+821000 mg
+Beans, black turtle, mature seeds, cooked, boiled,
+240.0 mL
+801000 mg
+Nuts, hazelnuts or filberts
+240.0 mL
+782000 mg
+Beans, baked, canned, with pork
+240.0 mL
+782000 mg
+Lima beans, immature seeds, frozen, fordhook,
+240.0 mL
+765000 mg
+Nuts, chestnuts, european, raw, unpeeled
+240.0 mL
+751000 mg
+Lima beans, immature seeds, frozen, baby, unprepared
+240.0 mL
+741000 mg
+Lima beans, immature seeds, frozen, baby, cooked, boiled, drained, without salt
+240.0 mL
+740000 mg
+Beans, black turtle, mature seeds, canned
+240.0 mL
+739000 mg
+Squash, winter, hubbard, baked, with salt
+240.0 mL
+734000 mg
+Mountain yam, hawaii, cooked, steamed, without salt
+240.0 mL
+718000 mg
+Cardoon, raw
+240.0 mL
+712000 mg
+Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt
+240.0 mL
+690000 mg
+Plantains, yellow, baked
+240.0 mL
+663000 mg
+Potatoes, mashed, dehydrated, flakes without milk, dry
+240.0 mL
+659000 mg
+Seeds, sunflower seed kernels, toasted, without salt
+240.0 mL
+658000 mg
+Pears, dried, sulfured, stewed, without added sugar
+240.0 mL
+658000 mg
+Cereals ready-to-eat, granola, homemade
+240.0 mL
+658000 mg
+Seeds, sunflower seed kernels, oil roasted, without salt
+240.0 mL
+652000 mg
+Squash, winter, acorn, cooked, boiled, mashed, without
+240.0 mL
+644000 mg
+Squash, winter, acorn, cooked, boiled, mashed, with salt
+240.0 mL
+644000 mg
+Cowpeas (blackeyes), immature seeds, frozen, cooked, boiled, drained, without salt
+240.0 mL
+638000 mg
+Cabbage, chinese (pak-choi), cooked, boiled, drained, with salt
+240.0 mL
+631000 mg
+Cabbage, chinese (pak-choi), cooked, boiled, drained, without salt
+240.0 mL
+631000 mg
+Cowpeas (blackeyes), immature seeds, raw
+240.0 mL
+625000 mg
+Squash, summer, zucchini, italian style, canned
+240.0 mL
+622000 mg
+Squash, winter, butternut, cooked, baked, without salt
+240.0 mL
+582000 mg
+Edamame, frozen, unprepared
+240.0 mL
+569000 mg
+Kiwifruit, green, raw
+240.0 mL
+562000 mg
+Purslane, cooked, boiled, drained, without salt
+240.0 mL
+561000 mg
+Garlic, raw
+240.0 mL
+545000 mg
+Milk, dry, nonfat, regular, without added vitamin A and
+60.0 mL
+538000 mg
+Spinach, canned, regular pack, solids and liquids
+240.0 mL
+538000 mg
+Pomegranate juice, bottled
+240.0 mL
+533000 mg
+Mushrooms, portabella, grilled
+240.0 mL
+529000 mg
+Tomatoes, red, ripe, canned, stewed
+240.0 mL
+528000 mg
+Tomato juice, canned, without salt added
+240.0 mL
+527000 mg
+Tomato juice, canned, with salt added
+240.0 mL
+527000 mg
+Cheese substitute, mozzarella
+240.0 mL
+514000 mg
+Nuts, butternuts, dried
+240.0 mL
+505000 mg
+Squash, winter, hubbard, cooked, boiled, mashed, with
+240.0 mL
+505000 mg
+Squash, winter, hubbard, cooked, boiled, mashed,
+240.0 mL
+505000 mg
+Pork, fresh, leg (ham), whole, separable lean only,
+240.0 mL
+504000 mg
+Squash, summer, crookneck and straightneck, frozen, cooked, boiled, drained, without salt
+240.0 mL
+486000 mg
+Mollusks, mussel, blue, raw
+240.0 mL
+480000 mg
+Jute, potherb, cooked, boiled, drained, without salt
+240.0 mL
+478000 mg
+Milk, buttermilk, dried
+60.0 mL
+478000 mg
+Corn grain, white
+240.0 mL
+476000 mg
+Squash, summer, zucchini, includes skin, cooked, boiled, drained, without salt
+240.0 mL
+475000 mg
+Vegetable juice cocktail, canned
+240.0 mL
+468000 mg
+Drumstick pods, raw
+240.0 mL
+461000 mg
+Tomatoes, red, ripe, canned, packed in tomato juice
+240.0 mL
+458000 mg
+Barley flour or meal
+240.0 mL
+457000 mg
+Peas, mature seeds, sprouted, raw
+240.0 mL
+457000 mg
+Rice flour, brown
+240.0 mL
+457000 mg
+Milk, reduced fat, fluid, 2% milkfat, protein fortified, with added vitamin A and vitamin D
+240.0 mL
+448000 mg
+Milk, nonfat, fluid, protein fortified, with added vitamin A and vitamin D (fat free and skim)
+240.0 mL
+448000 mg
+Pork, fresh, shoulder, whole, separable lean and fat, cooked, roasted
+240.0 mL
+444000 mg
+Orange juice, chilled, includes from concentrate, with added calcium and vitamin D
+240.0 mL
+443000 mg
+Orange juice, chilled, includes from concentrate, with
+240.0 mL
+443000 mg
+Milk, lowfat, fluid, 1% milkfat, protein fortified, with added vitamin A and vitamin D
+240.0 mL
+443000 mg
+Beets, raw
+240.0 mL
+442000 mg
+Seeds, lotus seeds, dried
+240.0 mL
+438000 mg
+Soup, beef and vegetables, canned, ready-to-serve
+240.0 mL
+435000 mg
+Celery, cooked, boiled, drained, without salt
+240.0 mL
+426000 mg
+Milk, chocolate, fluid, commercial, reduced fat, with added vitamin A and vitamin D
+240.0 mL
+422000 mg
+Grapefruit, sections, canned, juice pack, solids and
+240.0 mL
+421000 mg
+Eggnog
+240.0 mL
+419000 mg
+Milk, chocolate, fluid, commercial, whole, with added vitamin A and vitamin D
+240.0 mL
+418000 mg
+Asparagus, canned, drained solids
+240.0 mL
+416000 mg
+Carrots, raw
+240.0 mL
+410000 mg
+Grapefruit juice, white, canned, sweetened
+240.0 mL
+405000 mg
+Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program)
+240.0 mL
+395000 mg
+Sorghum flour, whole-grain
+240.0 mL
+392000 mg
+Beets, canned, regular pack, solids and liquids
+240.0 mL
+391000 mg
+Corn, sweet, yellow, canned, vacuum pack, regular pack
+240.0 mL
+391000 mg
+Carissa, (natal-plum), raw
+240.0 mL
+390000 mg
+Oat flour, partially debranned
+240.0 mL
+386000 mg
+Corn, sweet, yellow, frozen, kernels cut off cob, boiled, drained, without salt
+240.0 mL
+384000 mg
+Sweet potato, canned, syrup pack, drained solids
+240.0 mL
+378000 mg
+Milk, producer, fluid, 3.7% milkfat
+240.0 mL
+368000 mg
+Turnip greens, frozen, cooked, boiled, drained, without
+240.0 mL
+367000 mg
+Turkey, all classes, back, meat and skin, cooked, roasted
+240.0 mL
+364000 mg
+Apricots, canned, heavy syrup pack, with skin, solids and
+240.0 mL
+361000 mg
+Currants, european black, raw
+240.0 mL
+361000 mg
+Chicken, broilers or fryers, dark meat, meat only,
+240.0 mL
+354000 mg
+Peas, green, raw
+240.0 mL
+354000 mg
+Turnip greens and turnips, frozen, cooked, boiled,
+240.0 mL
+352000 mg
+Cornmeal, white, self-rising, bolted, with wheat flour added, enriched
+240.0 mL
+352000 mg
+Cornmeal, whole-grain, white
+240.0 mL
+350000 mg
+Corn, sweet, yellow, canned, brine pack, regular pack, solids and liquids
+240.0 mL
+348000 mg
+Grapefruit, raw, white, Florida
+240.0 mL
+345000 mg
+Potatoes, mashed, dehydrated, prepared from flakes without milk, whole milk and butter added
+240.0 mL
+344000 mg
+Beans, kidney, mature seeds, sprouted, raw
+240.0 mL
+344000 mg
+Brussels sprouts, raw
+240.0 mL
+342000 mg
+Cheese spread, pasteurized process, American
+240.0 mL
+339000 mg
+Blackberry juice, canned
+240.0 mL
+338000 mg
+Soup, cream of chicken, canned, condensed, reduced
+120.0 mL
+337000 mg
+Milk, sheep, fluid
+240.0 mL
+336000 mg
+Soybeans, mature seeds, sprouted, cooked, steamed
+240.0 mL
+334000 mg
+Oranges, raw, with peel
+240.0 mL
+333000 mg
+Broccoli, frozen, chopped, unprepared
+240.0 mL
+331000 mg
+Potatoes, mashed, dehydrated, prepared from granules with milk, water and margarine added
+240.0 mL
+326000 mg
+Litchis, raw
+240.0 mL
+325000 mg
+Cherries, sweet, canned, water pack, solids and liquids
+240.0 mL
+325000 mg
+Tangerines, (mandarin oranges), raw
+240.0 mL
+324000 mg
+Oranges, raw, California, valencias
+240.0 mL
+322000 mg
+Grapefruit, sections, canned, water pack, solids and
+240.0 mL
+322000 mg
+Squash, winter, butternut, frozen, cooked, boiled,
+240.0 mL
+319000 mg
+Potatoes, flesh and skin, raw
+120.0 mL
+319000 mg
+Apricots, canned, heavy syrup, drained
+240.0 mL
+313000 mg
+Grapefruit, raw, pink and red, all areas
+240.0 mL
+310000 mg
+Asparagus, frozen, cooked, boiled, drained, without salt
+240.0 mL
+310000 mg
+Currants, red and white, raw
+240.0 mL
+308000 mg
+Nuts, coconut meat, dried (desiccated), sweetened, flaked, packaged
+240.0 mL
+307000 mg
+Cherries, sweet, raw
+240.0 mL
+306000 mg
+Soup, pea, split with ham, canned, chunky, ready-to-
+240.0 mL
+305000 mg
+Pokeberry shoots, (poke), cooked, boiled, drained,
+240.0 mL
+304000 mg
+Cress, garden, raw
+240.0 mL
+303000 mg
+Potatoes, mashed, dehydrated, prepared from granules without milk, whole milk and butter added
+240.0 mL
+302000 mg
+Cheese, pasteurized process, swiss
+240.0 mL
+302000 mg
+Yardlong bean, cooked, boiled, drained, without salt
+240.0 mL
+302000 mg
+Corn flour, yellow, masa, enriched
+240.0 mL
+299000 mg
+Tofu, raw, firm, prepared with calcium sulfate
+120.0 mL
+299000 mg
+Gooseberries, raw
+240.0 mL
+297000 mg
+Turnip greens, cooked, boiled, drained, without salt
+240.0 mL
+292000 mg
+Corn, sweet, yellow, frozen, kernels cut off cob, unprepared (Includes foods for USDA's Food Distribution
+240.0 mL
+290000 mg
+Beet greens, raw
+240.0 mL
+290000 mg
+Cheese food, pasteurized process, American, vitamin D
+240.0 mL
+288000 mg
+Mountain yam, hawaii, raw
+120.0 mL
+284000 mg
+Turnips, frozen, cooked, boiled, drained, without salt
+240.0 mL
+284000 mg
+Lime juice, raw
+240.0 mL
+283000 mg
+Water convolvulus, cooked, boiled, drained, with salt
+240.0 mL
+278000 mg
+Milk substitutes, fluid, with lauric acid oil
+240.0 mL
+278000 mg
+Mangos, raw
+240.0 mL
+277000 mg
+Peas, edible-podded, frozen, unprepared
+240.0 mL
+276000 mg
+Mushrooms, Chanterelle, raw
+240.0 mL
+273000 mg
+Cheese, ricotta, whole milk
+120.0 mL
+272000 mg
+Radishes, raw
+240.0 mL
+270000 mg
+Teff, cooked
+240.0 mL
+270000 mg
+Grapes, canned, thompson seedless, water pack, solids
+240.0 mL
+262000 mg
+Carrots, canned, regular pack, drained solids
+240.0 mL
+261000 mg
+Broccoli, frozen, chopped, cooked, boiled, drained,
+240.0 mL
+261000 mg
+Chicken, gizzard, all classes, cooked, simmered
+240.0 mL
+260000 mg
+Chicken, broilers or fryers, drumstick, meat and skin, cooked, stewed
+240.0 mL
+258000 mg
+Potatoes, boiled, cooked without skin, flesh, with salt
+120.0 mL
+256000 mg
+Potatoes, boiled, cooked without skin, flesh, without salt
+120.0 mL
+256000 mg
+Figs, canned, water pack, solids and liquids
+240.0 mL
+255000 mg
+Beverages, Meal supplement drink, canned, peanut
+240.0 mL
+253000 mg
+Lemon juice, raw
+240.0 mL
+251000 mg
+Cheese, mozzarella, low moisture, part-skim
+240.0 mL
+248000 mg
+Peaches, canned, light syrup pack, solids and liquids
+240.0 mL
+243000 mg
+Peaches, canned, water pack, solids and liquids
+240.0 mL
+242000 mg
+Macaroni, vegetable, enriched, dry
+240.0 mL
+239000 mg
+Cherries, sour, red, canned, light syrup pack, solids and
+240.0 mL
+239000 mg
+Cornmeal, white, self-rising, degermed, enriched
+240.0 mL
+235000 mg
+Onions, raw
+240.0 mL
+234000 mg
+Boysenberries, canned, heavy syrup
+240.0 mL
+230000 mg
+Hyacinth-beans, immature seeds, cooked, boiled, drained, without salt
+240.0 mL
+228000 mg
+Kale, frozen, unprepared
+240.0 mL
+223000 mg
+CAMPBELL'S CHUNKY, Classic Chicken Noodle Soup
+240.0 mL
+219000 mg
+Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, heavy syrup, solids and liquids
+240.0 mL
+218000 mg
+Peaches, canned, extra heavy syrup pack, solids and liquids
+240.0 mL
+217000 mg
+Beans, snap, green, frozen, cooked, boiled, drained
+240.0 mL
+215000 mg
+Loganberries, frozen
+240.0 mL
+213000 mg
+Puddings, chocolate, dry mix, regular, prepared with
+120.0 mL
+213000 mg
+Rice, white, long-grain, regular, raw, unenriched
+240.0 mL
+213000 mg
+Purslane, raw
+240.0 mL
+212000 mg
+Onions, frozen, whole, cooked, boiled, drained, without
+240.0 mL
+212000 mg
+Blackberries, frozen, unsweetened
+240.0 mL
+211000 mg
+Asparagus, canned, regular pack, solids and liquids
+120.0 mL
+210000 mg
+Cereals, oats, instant, fortified, with raisins and spice, prepared with water
+240.0 mL
+204000 mg
+Pasta, dry, enriched
+240.0 mL
+203000 mg
+Pasta, dry, unenriched
+240.0 mL
+203000 mg
+Asparagus, cooked, boiled, drained
+120.0 mL
+202000 mg
+Cheese, cottage, nonfat, uncreamed, dry, large or small curd
+240.0 mL
+199000 mg
+Peas, edible-podded, raw
+240.0 mL
+196000 mg
+Biscuits, plain or buttermilk, dry mix
+240.0 mL
+196000 mg
+Carrots, canned, no salt added, solids and liquids
+120.0 mL
+194000 mg
+Cherries, sour, red, frozen, unsweetened (Includes foods for USDA's Food Distribution Program)
+240.0 mL
+192000 mg
+Cauliflower, green, raw
+240.0 mL
+192000 mg
+Fruit salad, (peach and pear and apricot and pineapple and cherry), canned, water pack, solids and liquids
+240.0 mL
+191000 mg
+Gravy, beef, canned, ready-to-serve
+240.0 mL
+189000 mg
+Beverages, chocolate powder, no sugar added
+29.57 mL
+188000 mg
+Cereals, WHEATENA, cooked with water
+240.0 mL
+187000 mg
+Soup, pea, green, canned, condensed
+120.0 mL
+186000 mg
+Applesauce, canned, sweetened, without salt
+240.0 mL
+184000 mg
+Turnip greens, frozen, cooked, boiled, drained, with salt
+120.0 mL
+184000 mg
+Boysenberries, frozen, unsweetened
+240.0 mL
+183000 mg
+Cheese, provolone
+240.0 mL
+182000 mg
+Cabbage, chinese (pe-tsai), raw
+240.0 mL
+181000 mg
+Cheese, parmesan, grated
+240.0 mL
+180000 mg
+Beverages, almond milk, chocolate, ready-to-drink
+236.59 mL
+180000 mg
+Cheese, muenster
+240.0 mL
+177000 mg
+Grapes, american type (slip skin), raw
+240.0 mL
+176000 mg
+Carambola, (starfruit), raw
+240.0 mL
+176000 mg
+Corn, sweet, yellow, canned, drained solids, rinsed with tap water
+240.0 mL
+174000 mg
+Soup, chicken, canned, chunky, ready-to-serve
+240.0 mL
+172000 mg
+Okra, frozen, cooked, boiled, drained, without salt
+120.0 mL
+169000 mg
+Beverages, Orange drink, breakfast type, with juice and pulp, frozen concentrate
+29.57 mL
+169000 mg
+Spinach, raw
+240.0 mL
+167000 mg
+Pears, canned, light syrup pack, solids and liquids
+240.0 mL
+166000 mg
+Cowpeas, leafy tips, raw
+240.0 mL
+164000 mg
+Pears, raw
+240.0 mL
+162000 mg
+Cheese, ricotta, part skim milk
+120.0 mL
+155000 mg
+Turnip greens, frozen, unprepared
+120.0 mL
+151000 mg
+Carrots, frozen, unprepared (Includes foods for USDA's Food Distribution Program)
+120.0 mL
+150000 mg
+Infant formula, ABBOTT NUTRITION, SIMILAC, GO AND GROW, ready-to-feed, with ARA and DHA
+147.87 mL
+150000 mg
+Rowal, raw
+120.0 mL
+149000 mg
+Blueberries, wild, canned, heavy syrup, drained
+240.0 mL
+147000 mg
+Milk, canned, condensed, sweetened
+29.57 mL
+142000 mg
+Blueberries, frozen, sweetened
+240.0 mL
+138000 mg
+Wheat flour, white, bread, enriched
+240.0 mL
+137000 mg
+Wheat flour, white, all-purpose, unenriched
+240.0 mL
+134000 mg
+Wheat flour, white, all-purpose, enriched, calcium-
+240.0 mL
+134000 mg
+Apples, frozen, unsweetened, unheated (Includes foods for USDA's Food Distribution Program)
+240.0 mL
+133000 mg
+Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, extra light syrup, solids and liquids
+120.0 mL
+128000 mg
+Mung beans, mature seeds, sprouted, cooked, boiled, drained, without salt
+240.0 mL
+125000 mg
+Soup, cream of celery, canned, prepared with equal
+240.0 mL
+124000 mg
+Dessert topping, powdered, 1.5 ounce prepared with
+240.0 mL
+121000 mg
+Beverages, almond milk, sweetened, vanilla flavor, ready-
+236.59 mL
+120000 mg
+Nuts, almond butter, plain, with salt added
+14.79 mL
+120000 mg
+Cream, fluid, light whipping
+240.0 mL
+116000 mg
+Cream, fluid, heavy whipping
+240.0 mL
+114000 mg
+Milk, canned, evaporated, nonfat, with added vitamin A and vitamin D
+29.57 mL
+106000 mg
+Cheese, cheddar (Includes foods for USDA's Food Distribution Program)
+240.0 mL
+100000 mg
+Apples, raw, without skin
+240.0 mL
+99000 mg
+Soup, beef noodle, canned, condensed
+120.0 mL
+99000 mg
+Fish, herring, Atlantic, pickled
+240.0 mL
+97000 mg
+Milk, canned, evaporated, with added vitamin D and without added vitamin A
+29.57 mL
+95000 mg
+Cheese, swiss
+240.0 mL
+95000 mg
+Liverwurst spread
+60.0 mL
+94000 mg
+Cheese, feta
+240.0 mL
+93000 mg
+Noodles, egg, dry, unenriched
+240.0 mL
+93000 mg
+Cream, whipped, cream topping, pressurized
+240.0 mL
+88000 mg
+Cheese, mozzarella, whole milk
+240.0 mL
+85000 mg
+Onions, dehydrated flakes
+14.79 mL
+81000 mg
+Soup, cream of mushroom, canned, condensed
+120.0 mL
+81000 mg
+Endive, raw
+120.0 mL
+78000 mg
+Broccoli raab, raw
+240.0 mL
+78000 mg
+Cranberry sauce, canned, sweetened
+240.0 mL
+78000 mg
+Kale, raw
+240.0 mL
+73000 mg
+Cereals, corn grits, white, regular and quick, enriched, cooked with water, with salt
+240.0 mL
+69000 mg
+Cereals, corn grits, white, regular and quick, enriched, cooked with water, without salt
+240.0 mL
+69000 mg
+Syrups, table blends, pancake, with 2% maple, with added potassium
+240.0 mL
+69000 mg
+Cheese, mexican, queso chihuahua
+240.0 mL
+69000 mg
+Tamarind nectar, canned
+240.0 mL
+68000 mg
+Milk shakes, thick chocolate
+29.57 mL
+64000 mg
+Beverages, coffee, instant, decaffeinated, powder
+4.93 mL
+63000 mg
+Spices, turmeric, ground
+4.93 mL
+62000 mg
+Noodles, egg, unenriched, cooked, without added salt
+240.0 mL
+61000 mg
+Noodles, egg, spinach, enriched, cooked
+240.0 mL
+59000 mg
+Soup, cream of shrimp, canned, prepared with equal
+240.0 mL
+59000 mg
+Rice, white, long-grain, regular, cooked, unenriched,
+240.0 mL
+55000 mg
+Rice, white, medium-grain, cooked, unenriched
+240.0 mL
+54000 mg
+Cereals, corn grits, yellow, regular and quick, enriched, cooked with water, without salt
+240.0 mL
+51000 mg
+Noodles, japanese, somen, cooked
+240.0 mL
+51000 mg
+Cereals, CREAM OF RICE, cooked with water, with salt
+240.0 mL
+49000 mg
+Nuts, coconut cream, raw (liquid expressed from grated
+14.79 mL
+49000 mg
+Cereals, CREAM OF WHEAT, instant, prepared with water, without salt
+240.0 mL
+48000 mg
+Syrups, table blends, pancake
+240.0 mL
+47000 mg
+Soup, chicken with rice, canned, condensed
+120.0 mL
+43000 mg
+Macaroni, vegetable, enriched, cooked
+240.0 mL
+42000 mg
+Cream, fluid, light (coffee cream or table cream)
+29.57 mL
+41000 mg
+Cream, fluid, half and half
+29.57 mL
+40000 mg
+Spices, anise seed
+4.93 mL
+30000 mg
+Spices, caraway seed
+4.93 mL
+28000 mg
+Alcoholic beverage, pina colada, canned
+29.57 mL
+27000 mg
+Spices, ginger, ground
+4.93 mL
+24000 mg
+Spices, curry powder
+4.93 mL
+23000 mg
+Infant formula, MEAD JOHNSON, ENFAMIL, Premature, with iron, 24 calories, ready-to-feed
+29.57 mL
+23000 mg
+Infant formula, GERBER, GOOD START 2 Soy, with iron,
+29.57 mL
+23000 mg
+Infant formula, GERBER, GOOD START 2, PROTECT PLUS, ready-to-feed
+29.57 mL
+22000 mg
+Infant formula, ABBOTT NUTRITION, SIMILAC, Expert Care, Diarrhea, ready- to- feed with ARA and DHA
+29.57 mL
+22000 mg
+Infant Formula, GERBER GOOD START 2, GENTLE PLUS,
+29.57 mL
+22000 mg
+Infant formula, ABBOTT NUTRITION, SIMILAC, For Spit Up, ready-to-feed, with ARA and DHA
+29.57 mL
+21000 mg
+Alcoholic beverage, wine, table, white
+29.57 mL
+21000 mg
+Alcoholic beverage, wine, table, white, Chardonnay
+29.57 mL
+21000 mg
+Sour dressing, non-butterfat, cultured, filled cream-type
+14.79 mL
+19000 mg
+Cream, sour, reduced fat, cultured
+14.79 mL
+19000 mg
+Nuts, coconut cream, canned, sweetened
+14.79 mL
+19000 mg
+Cheese, cream
+14.79 mL
+19000 mg
+Sauce, cheese, ready-to-serve
+60.0 mL
+19000 mg
+Beverages, cranberry-apricot juice drink, bottled
+29.57 mL
+19000 mg
+Spices, tarragon, dried
+4.93 mL
+18000 mg
+Egg, whole, cooked, omelet
+14.79 mL
+18000 mg
+Sweeteners, for baking, brown, contains sugar and
+14.79 mL
+17000 mg
+Onions, frozen, chopped, cooked, boiled, drained,
+14.79 mL
+16000 mg
+Cereals ready-to-eat, rice, puffed, fortified
+240.0 mL
+16000 mg
+Cream, sour, cultured
+14.79 mL
+15000 mg
+Spices, mustard seed, ground
+4.93 mL
+15000 mg
+Spices, savory, ground
+4.93 mL
+15000 mg
+Dessert topping, pressurized
+240.0 mL
+13000 mg
+Cereals, CREAM OF WHEAT, instant, dry
+14.79 mL
+13000 mg
+Orange peel, raw
+14.79 mL
+13000 mg
+Beverages, coffee substitute, cereal grain beverage, prepared with water
+29.57 mL
+12000 mg
+Spices, cinnamon, ground
+4.93 mL
+11000 mg
+Alcoholic beverage, liqueur, coffee, 63 proof
+29.57 mL
+10000 mg
+Spices, marjoram, dried
+4.93 mL
+9000 mg
+Beverages, Whiskey sour mix, bottled
+29.57 mL
+9000 mg
+Ginger root, raw
+4.93 mL
+8000 mg
+Chicken, broilers or fryers, separable fat, raw
+14.79 mL
+8000 mg
+Spices, thyme, dried
+4.93 mL
+8000 mg
+Salad dressing, KRAFT Mayo Fat Free Mayonnaise
+14.79 mL
+8000 mg
+Spices, mace, ground
+4.93 mL
+8000 mg
+Spices, nutmeg, ground
+4.93 mL
+8000 mg
+Alcoholic beverage, beer, light, BUD LIGHT
+29.57 mL
+8000 mg
+Beverages, cranberry-grape juice drink, bottled
+29.57 mL
+7000 mg
+Beverages, Energy drink, ROCKSTAR, sugar free
+236.59 mL
+7000 mg
+Rice noodles, cooked
+240.0 mL
+7000 mg
+Vanilla extract
+4.93 mL
+6000 mg
+Salad dressing, mayonnaise type, regular, with salt
+14.79 mL
+5000 mg
+Beverages, Energy drink, AMP, sugar free
+236.59 mL
+5000 mg
+Beverages, Propel Zero, fruit-flavored, non-carbonated
+29.57 mL
+5000 mg
+Tree fern, cooked, without salt
+120.0 mL
+4000 mg
+Alcoholic beverage, whiskey sour, canned
+29.57 mL
+3000 mg
+Alcoholic beverage, daiquiri, canned
+29.57 mL
+3000 mg
+Spices, bay leaf
+4.93 mL
+3000 mg
+Alcoholic beverage, tequila sunrise, canned
+29.57 mL
+3000 mg
+Margarine-like, margarine-butter blend, soybean oil and
+14.79 mL
+3000 mg
+Salad dressing, mayonnaise, regular
+14.79 mL
+3000 mg
+Beverages, carbonated, low calorie, cola or pepper-type, with aspartame, contains caffeine
+29.57 mL
+2000 mg
+Whiskey sour mix, bottled, with added potassium and
+29.57 mL
+2000 mg
+Salad dressing, mayonnaise, imitation, soybean
+14.79 mL
+2000 mg
+Beverages, carbonated, reduced sugar, cola, contains caffeine and sweeteners
+29.57 mL
+1000 mg
+Olives, ripe, canned (small-extra large)
+14.79 mL
+1000 mg
+Beverages, carbonated, club soda
+29.57 mL
+1000 mg
+Beverages, carbonated, low calorie, other than cola or pepper, with aspartame, contains caffeine
+29.57 mL
+1000 mg
