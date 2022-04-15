@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+
+import sys
+
+# --------------------------------------------------
+
 def convert_volume(volume_string):
 
     units = ['fl oz', 'oz', 'tsp', 'tbsp', 'tablespoon', 'cups']
@@ -26,33 +32,6 @@ def convert_volume(volume_string):
 
 def main():
 
-<<<<<<< HEAD
-    raw_data = open('raw_data_file.txt').read()
-    converted_volumes = open('converted_volumes.txt', 'a')
-    look_up_table = open('lookup_table.txt', 'a')
-    total_lines = calculate_total_lines(raw_data)
-    line_track = 1
-
-    while line_track <= total_lines:
-
-        info = sort_values(raw_data, total_lines, line_track)
-
-        description = info[1]
-        volume = str(covert_units(info[2]))
-        mass = int(info[3]) * 1000
-
-        if volume != 'None':
-            concentration = float(mass) / float(volume)
-
-            converted_volumes.write(description + '\n')
-            converted_volumes.write(str(round(float(volume), 2)) + ' mL\n')
-            converted_volumes.write(str(mass) + ' mg\n')
-
-            look_up_table.write(description + '\n')
-            look_up_table.write((str(round(concentration, 1))) + ' mg/mL\n')
-
-        line_track += 1
-=======
     lookup_table = open('lookup_table.txt', 'wt')
     description = ''
     volume_string = ''
@@ -74,7 +53,6 @@ def main():
                 concentration = (float(potassium_mass) / float(volume))
                 print(description, end='', file=lookup_table)
                 print(round(concentration, 2), file=lookup_table)
->>>>>>> 2f886830f197899ec49099bd8959bf0b3273971f
 
 
 # --------------------------------------------------
